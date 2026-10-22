@@ -25,7 +25,6 @@
   {
     "id": "napoleon",
     "name": "Napoleón Bonaparte",
-    "name_en": "Napoleon Bonaparte",
     "aliases": [
       "napoleon",
       "napoleon bonaparte",
@@ -46,7 +45,8 @@
       "lng": -5.67
     },
     "blurb": "Emperador francés, murió en el exilio en una isla del Atlántico Sur.",
-    "blurb_en": "French emperor, died in exile on an island in the South Atlantic."
+    "blurb_en": "French emperor, died in exile on an island in the South Atlantic.",
+    "name_en": "Napoleon Bonaparte"
   },
   {
     "id": "mozart",
@@ -221,7 +221,6 @@
   {
     "id": "miguelangel",
     "name": "Miguel Ángel Buonarroti",
-    "name_en": "Michelangelo Buonarroti",
     "aliases": [
       "miguel angel",
       "miguel angel buonarroti",
@@ -242,7 +241,8 @@
       "lng": 12.5
     },
     "blurb": "Escultor y pintor de la Capilla Sixtina y el David.",
-    "blurb_en": "Sculptor and painter of the Sistine Chapel and the David."
+    "blurb_en": "Sculptor and painter of the Sistine Chapel and the David.",
+    "name_en": "Michelangelo Buonarroti"
   },
   {
     "id": "shakespeare",
@@ -319,7 +319,6 @@
   {
     "id": "dostoievski",
     "name": "Fiódor Dostoievski",
-    "name_en": "Fyodor Dostoevsky",
     "aliases": [
       "dostoievski",
       "dostoyevski",
@@ -341,12 +340,12 @@
       "lng": 30.34
     },
     "blurb": "Autor de Crimen y castigo.",
-    "blurb_en": "Author of Crime and Punishment."
+    "blurb_en": "Author of Crime and Punishment.",
+    "name_en": "Fyodor Dostoevsky"
   },
   {
     "id": "tolstoi",
     "name": "León Tolstói",
-    "name_en": "Leo Tolstoy",
     "aliases": [
       "tolstoi",
       "tolstoy",
@@ -368,7 +367,8 @@
       "lng": 39.63
     },
     "blurb": "Autor de Guerra y paz, murió en una estación de tren.",
-    "blurb_en": "Author of War and Peace, died at a train station."
+    "blurb_en": "Author of War and Peace, died at a train station.",
+    "name_en": "Leo Tolstoy"
   },
   {
     "id": "hemingway",
@@ -1001,7 +1001,6 @@
   {
     "id": "juliocesar",
     "name": "Julio César",
-    "name_en": "Julius Caesar",
     "aliases": [
       "julio cesar",
       "julius caesar",
@@ -1022,12 +1021,12 @@
       "lng": 12.5
     },
     "blurb": "General y estadista romano, asesinado en el Senado.",
-    "blurb_en": "Roman general and statesman, assassinated in the Senate."
+    "blurb_en": "Roman general and statesman, assassinated in the Senate.",
+    "name_en": "Julius Caesar"
   },
   {
     "id": "augusto",
     "name": "Augusto",
-    "name_en": "Augustus",
     "aliases": [
       "augusto",
       "octavio augusto",
@@ -1048,7 +1047,8 @@
       "lng": 14.53
     },
     "blurb": "Primer emperador romano.",
-    "blurb_en": "First Roman emperor."
+    "blurb_en": "First Roman emperor.",
+    "name_en": "Augustus"
   },
   {
     "id": "bismarck",
@@ -1077,7 +1077,6 @@
   {
     "id": "stalin",
     "name": "Iósif Stalin",
-    "name_en": "Joseph Stalin",
     "aliases": [
       "stalin",
       "iosif stalin",
@@ -1098,7 +1097,8 @@
       "lng": 37.62
     },
     "blurb": "Líder de la Unión Soviética durante casi tres décadas.",
-    "blurb_en": "Leader of the Soviet Union for almost three decades."
+    "blurb_en": "Leader of the Soviet Union for almost three decades.",
+    "name_en": "Joseph Stalin"
   },
   {
     "id": "lenin",
@@ -1152,7 +1152,6 @@
   {
     "id": "marieantoinette",
     "name": "María Antonieta",
-    "name_en": "Marie Antoinette",
     "aliases": [
       "maria antonieta",
       "marie antoinette"
@@ -1172,12 +1171,12 @@
       "lng": 2.35
     },
     "blurb": "Reina de Francia, guillotinada durante la Revolución Francesa.",
-    "blurb_en": "Queen of France, guillotined during the French Revolution."
+    "blurb_en": "Queen of France, guillotined during the French Revolution.",
+    "name_en": "Marie Antoinette"
   },
   {
     "id": "luisxiv",
     "name": "Luis XIV",
-    "name_en": "Louis XIV",
     "aliases": [
       "luis xiv",
       "louis xiv",
@@ -1198,12 +1197,12 @@
       "lng": 2.13
     },
     "blurb": "Rey de Francia, conocido como el Rey Sol.",
-    "blurb_en": "King of France, known as the Sun King."
+    "blurb_en": "King of France, known as the Sun King.",
+    "name_en": "Louis XIV"
   },
   {
     "id": "victoria",
     "name": "Reina Victoria",
-    "name_en": "Queen Victoria",
     "aliases": [
       "reina victoria",
       "queen victoria",
@@ -1224,7 +1223,8 @@
       "lng": -1.28
     },
     "blurb": "Reina del Reino Unido durante 63 años.",
-    "blurb_en": "Queen of the United Kingdom for 63 years."
+    "blurb_en": "Queen of the United Kingdom for 63 years.",
+    "name_en": "Queen Victoria"
   },
   {
     "id": "fleming",
@@ -1397,7 +1397,6 @@
   {
     "id": "tchaikovsky",
     "name": "Piotr Ilich Chaikovski",
-    "name_en": "Pyotr Ilyich Tchaikovsky",
     "aliases": [
       "chaikovski",
       "tchaikovsky",
@@ -1418,7 +1417,8 @@
       "lng": 30.34
     },
     "blurb": "Compositor de El lago de los cisnes y El cascanueces.",
-    "blurb_en": "Composer of Swan Lake and The Nutcracker."
+    "blurb_en": "Composer of Swan Lake and The Nutcracker.",
+    "name_en": "Pyotr Ilyich Tchaikovsky"
   },
   {
     "id": "monet",
@@ -1519,7 +1519,6 @@
   {
     "id": "colon",
     "name": "Cristóbal Colón",
-    "name_en": "Christopher Columbus",
     "aliases": [
       "colon",
       "cristobal colon",
@@ -1540,7 +1539,8 @@
       "lng": -4.72
     },
     "blurb": "Navegante que llegó a América en 1492.",
-    "blurb_en": "Navigator who reached the Americas in 1492."
+    "blurb_en": "Navigator who reached the Americas in 1492.",
+    "name_en": "Christopher Columbus"
   },
   {
     "id": "elvis",
@@ -1665,7 +1665,6 @@
   {
     "id": "annefrank",
     "name": "Ana Frank",
-    "name_en": "Anne Frank",
     "aliases": [
       "ana frank",
       "anne frank"
@@ -1685,7 +1684,8 @@
       "lng": 9.91
     },
     "blurb": "Autora del diario que lleva su nombre.",
-    "blurb_en": "Author of the diary that bears her name."
+    "blurb_en": "Author of the diary that bears her name.",
+    "name_en": "Anne Frank"
   },
   {
     "id": "muhammad-ali-zmta",
@@ -1712,6 +1712,12 @@
       "Se destacó en el ámbito de: Deporte.",
       "Nació en Estados Unidos, siglo XX.",
       "Muhammad Ali o Mohamed Alí​​ (nacido como Cassius Marcellus Clay Jr.; Louisville, Kentucky, 17 de enero de 1942-Scottsdale, Arizona, 3 de junio de 2016)​​ fue un boxeador profesional y \"activista\" estadounidense."
+    ],
+    "blurb_en": "American boxer.",
+    "hints_en": [
+      "Known for: Sports.",
+      "Born in the United States, 20th century.",
+      "Their initials are M. A."
     ]
   },
   {
@@ -1739,6 +1745,12 @@
       "Se destacó en el ámbito de: Deporte.",
       "Nació en Brasil, siglo XX.",
       "Edson Arantes do Nascimento​ (Três Corações, Minas Gerais, 23 de octubre de 1940-São Paulo, 29 de diciembre de 2022),​ más conocido como Pelé, fue un futbolista brasileño que jugó como delantero, siendo el primer jugador más joven en debutar para la Copa Mundial de 1958 en Suecia con 17 años."
+    ],
+    "blurb_en": "Brazilian footballer.",
+    "hints_en": [
+      "Known for: Sports.",
+      "Born in Brazil, 20th century.",
+      "Their initials are P."
     ]
   },
   {
@@ -1766,6 +1778,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Explorador y oficial de la Royal Navy.",
       "Sus iniciales son R. F. S."
+    ],
+    "blurb_en": "Explorer and Royal Navy officer.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Explorer and Royal Navy officer.",
+      "Their initials are R. F. S."
     ]
   },
   {
@@ -1793,6 +1811,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Explorador noruego.",
       "Sus iniciales son R. A."
+    ],
+    "blurb_en": "Norwegian explorer.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Norwegian explorer.",
+      "Their initials are R. A."
     ]
   },
   {
@@ -1820,6 +1844,12 @@
       "Se destacó en el ámbito de: Aviación y aventurera.",
       "Aviadora estadounidense.",
       "Sus iniciales son A. E."
+    ],
+    "blurb_en": "American aviator.",
+    "hints_en": [
+      "Known for: Aviation & Adventurer.",
+      "American aviator.",
+      "Their initials are A. E."
     ]
   },
   {
@@ -1847,6 +1877,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Explorador polar anglo-irlandés.",
       "Sus iniciales son E. S."
+    ],
+    "blurb_en": "Anglo-Irish polar explorer.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Anglo-Irish polar explorer.",
+      "Their initials are E. S."
     ]
   },
   {
@@ -1874,11 +1910,20 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Explorador noruego.",
       "Sus iniciales son R. A."
+    ],
+    "blurb_en": "Norwegian explorer.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Norwegian explorer.",
+      "Their initials are R. A."
     ]
   },
   {
     "id": "robert-falcon-scott-5xec",
     "name": "Robert Falcon Scott",
+    "aliases": [
+      "scott"
+    ],
     "category": "exploracion_geografia",
     "difficulty": "medio",
     "birthYear": 1868,
@@ -1896,19 +1941,24 @@
       "place_en": "Ross Ice Shelf"
     },
     "blurb": "Explorador y oficial de la Royal Navy.",
-    "aliases": [
-      "scott"
-    ],
     "blurb_en": "Royal Navy officer and explorer (1868–1912).",
     "hints": [
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Explorador y oficial de la Royal Navy.",
       "Sus iniciales son R. F. S."
+    ],
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Royal Navy officer and explorer (1868–1912).",
+      "Their initials are R. F. S."
     ]
   },
   {
     "id": "james-cook-5yv7",
     "name": "James Cook",
+    "aliases": [
+      "cook"
+    ],
     "category": "exploracion_geografia",
     "difficulty": "facil",
     "birthYear": 1728,
@@ -1926,14 +1976,16 @@
       "place_en": "Kealakekua Bay, United States"
     },
     "blurb": "Navegante, explorador y cartógrafo británico.",
-    "aliases": [
-      "cook"
-    ],
     "blurb_en": "British explorer, cartographer and naval officer (1728–1779).",
     "hints": [
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Navegante, explorador y cartógrafo británico.",
       "Sus iniciales son J. C."
+    ],
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "British explorer, cartographer and naval officer (1728–1779).",
+      "Their initials are J. C."
     ]
   },
   {
@@ -1961,6 +2013,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Escalador y montañero británico.",
       "Sus iniciales son G. L. M."
+    ],
+    "blurb_en": "British climber and mountaineer.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "British climber and mountaineer.",
+      "Their initials are G. L. M."
     ]
   },
   {
@@ -1988,6 +2046,12 @@
       "Se destacó en el ámbito de: Cosmonauta",
       "Cosmonauta soviético, primera persona en llegar al espacio (1934–1968).",
       "Sus iniciales son Y. G."
+    ],
+    "blurb_en": "Soviet cosmonaut, first person to reach space (1934–1968).",
+    "hints_en": [
+      "Known for: Cosmonaut.",
+      "Soviet cosmonaut, first person to reach space (1934–1968).",
+      "Their initials are Y. G."
     ]
   },
   {
@@ -2015,6 +2079,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Navegante y explorador portugués al servicio de España (1480-1521).",
       "Sus iniciales son F. D. M."
+    ],
+    "blurb_en": "Portuguese navigator and explorer in the service of Spain (1480-1521).",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Portuguese navigator and explorer in the service of Spain (1480-1521).",
+      "Their initials are F. D. M."
     ]
   },
   {
@@ -2042,6 +2112,12 @@
       "Se destacó en el ámbito de: Deporte.",
       "Baloncestista estadounidense.",
       "Sus iniciales son K. B."
+    ],
+    "blurb_en": "American basketball player.",
+    "hints_en": [
+      "Known for: Sports.",
+      "American basketball player.",
+      "Their initials are K. B."
     ]
   },
   {
@@ -2069,6 +2145,12 @@
       "Se destacó en el ámbito de: Deporte",
       "Piloto de automovilismo argentino.",
       "Sus iniciales son J. M. F."
+    ],
+    "blurb_en": "Argentine racing driver.",
+    "hints_en": [
+      "Known for: Sports.",
+      "Argentine racing driver.",
+      "Their initials are J. M. F."
     ]
   },
   {
@@ -2096,6 +2178,12 @@
       "Se destacó en el ámbito de: Filosofía y Religión.",
       "Predicador judío del siglo I y principal figura del cristianismo.",
       "Sus iniciales son J. D. N."
+    ],
+    "blurb_en": "1st-century Jewish preacher and central figure of Christianity.",
+    "hints_en": [
+      "Known for: Philosophy & Religion.",
+      "1st-century Jewish preacher and central figure of Christianity.",
+      "Their initials are J. D. N."
     ]
   },
   {
@@ -2123,6 +2211,12 @@
       "Se destacó en el ámbito de: Religión",
       "Profeta y líder político árabe, fundador del Islam.",
       "Sus iniciales son M."
+    ],
+    "blurb_en": "Arab prophet and political leader, founder of Islam.",
+    "hints_en": [
+      "Known for: Religion.",
+      "Arab prophet and political leader, founder of Islam.",
+      "Their initials are M."
     ]
   },
   {
@@ -2150,6 +2244,12 @@
       "Se destacó en el ámbito de: Música.",
       "Formó parte del cuarteto de Liverpool",
       "Sus iniciales son G. H."
+    ],
+    "blurb_en": "British musician.",
+    "hints_en": [
+      "Known for: Music.",
+      "Member of the Liverpool quartet.",
+      "Their initials are G. H."
     ]
   },
   {
@@ -2177,6 +2277,12 @@
       "Se destacó en el ámbito de: Deporte.",
       "Futbolista y entrenador neerlandés.",
       "Sus iniciales son J. C."
+    ],
+    "blurb_en": "Dutch footballer and coach.",
+    "hints_en": [
+      "Known for: Sports.",
+      "Dutch footballer and coach.",
+      "Their initials are J. C."
     ]
   },
   {
@@ -2204,6 +2310,12 @@
       "Conocido por: Deportista",
       "Automovilista brasilero",
       "Iniciales A.S"
+    ],
+    "blurb_en": "Brazilian racing driver, three-time Formula One world champion.",
+    "hints_en": [
+      "Known for: Athlete.",
+      "Brazilian racing driver.",
+      "Their initials are A.S"
     ]
   },
   {
@@ -2231,6 +2343,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Senderista estadounidense.",
       "Sus iniciales son C. M."
+    ],
+    "blurb_en": "American hiker.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "American hiker.",
+      "Their initials are C. M."
     ]
   },
   {
@@ -2258,6 +2376,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Primer gran kan del Imperio mongol.",
       "Sus iniciales son G. K."
+    ],
+    "blurb_en": "First great khan of the Mongol Empire.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "First great khan of the Mongol Empire.",
+      "Their initials are G. K."
     ]
   },
   {
@@ -2285,6 +2409,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actriz estadounidense.",
       "Sus iniciales son M. M."
+    ],
+    "blurb_en": "American actress.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American actress.",
+      "Their initials are M. M."
     ]
   },
   {
@@ -2312,6 +2442,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor nacido en Bohemia que escribió en alemán.",
       "Sus iniciales son F. K."
+    ],
+    "blurb_en": "Writer born in Bohemia who wrote in German.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Writer born in Bohemia who wrote in German.",
+      "Their initials are F. K."
     ]
   },
   {
@@ -2339,6 +2475,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Presidente de Argentina de 1946 a 1955 y de 1973 a 1974.",
       "Sus iniciales son J. D. P."
+    ],
+    "blurb_en": "President of Argentina from 1946 to 1955 and from 1973 to 1974.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "President of Argentina from 1946 to 1955 and from 1973 to 1974.",
+      "Their initials are J. D. P."
     ]
   },
   {
@@ -2366,6 +2508,12 @@
       "Se destacó en el ámbito de: Política.",
       "35.º presidente de los Estados Unidos.",
       "Sus iniciales son J. F. K."
+    ],
+    "blurb_en": "35th president of the United States.",
+    "hints_en": [
+      "Known for: Politics.",
+      "35th president of the United States.",
+      "Their initials are J. F. K."
     ]
   },
   {
@@ -2395,6 +2543,12 @@
       "Se destacó en el ámbito de: Filosofía y Religión.",
       "Fundador del budismo.",
       "Sus iniciales son B. G."
+    ],
+    "blurb_en": "Founder of Buddhism.",
+    "hints_en": [
+      "Known for: Philosophy & Religion.",
+      "Founder of Buddhism.",
+      "Their initials are B. G."
     ]
   },
   {
@@ -2423,6 +2577,12 @@
       "Se destacó en el ámbito de: Filosofía y Religión.",
       "Apóstol cristiano de origen judío.",
       "Sus iniciales son P. D. T."
+    ],
+    "blurb_en": "Christian apostle of Jewish origin.",
+    "hints_en": [
+      "Known for: Philosophy & Religion.",
+      "Christian apostle of Jewish origin.",
+      "Their initials are P. D. T."
     ]
   },
   {
@@ -2450,6 +2610,12 @@
       "Se destacó en el ámbito de: Inventor.",
       "Orfebre alemán, inventor de la imprenta de tipos móviles moderna.",
       "Sus iniciales son J. G."
+    ],
+    "blurb_en": "German goldsmith, inventor of the modern movable-type printing press.",
+    "hints_en": [
+      "Known for: Inventor.",
+      "German goldsmith, inventor of the modern movable-type printing press.",
+      "Their initials are J. G."
     ]
   },
   {
@@ -2479,6 +2645,12 @@
       "Se destacó en el ámbito de: Filosofía y Religión.",
       "266.º papa de la Iglesia católica y 8.º Pontífice Soberano del Estado de la Ciudad del Vaticano.",
       "Sus iniciales son F."
+    ],
+    "blurb_en": "266th pope of the Catholic Church and 8th Sovereign Pontiff of Vatican City State.",
+    "hints_en": [
+      "Known for: Philosophy & Religion.",
+      "266th pope of the Catholic Church and 8th Sovereign Pontiff of Vatican City State.",
+      "Their initials are F."
     ]
   },
   {
@@ -2506,6 +2678,12 @@
       "Se destacó en el ámbito de: Religión",
       "Personaje de la Biblia, profeta en el judaísmo, cristianismo e Islam; protagonista del libro del Éxodo.",
       "Sus iniciales son M."
+    ],
+    "blurb_en": "Biblical figure, prophet in Judaism, Christianity and Islam; protagonist of the Book of Exodus.",
+    "hints_en": [
+      "Known for: Religion.",
+      "Biblical figure, prophet in Judaism, Christianity and Islam; protagonist of the Book of Exodus.",
+      "Their initials are M."
     ]
   },
   {
@@ -2533,6 +2711,12 @@
       "Se destacó en el ámbito de: Ciencia.",
       "Empresario industrial estadounidense.",
       "Sus iniciales son H. F."
+    ],
+    "blurb_en": "American industrialist.",
+    "hints_en": [
+      "Known for: Science.",
+      "American industrialist.",
+      "Their initials are H. F."
     ]
   },
   {
@@ -2560,6 +2744,12 @@
       "Se destacó en el ámbito de: Política.",
       "Presidente de Chile (1970-1973).",
       "Sus iniciales son S. A."
+    ],
+    "blurb_en": "President of Chile (1970-1973).",
+    "hints_en": [
+      "Known for: Politics.",
+      "President of Chile (1970-1973).",
+      "Their initials are S. A."
     ]
   },
   {
@@ -2587,6 +2777,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Militar, político y dictador chileno.",
       "Sus iniciales son A. P."
+    ],
+    "blurb_en": "Chilean military officer, politician and dictator.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Chilean military officer, politician and dictator.",
+      "Their initials are A. P."
     ]
   },
   {
@@ -2614,6 +2810,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Político y revolucionario cubano.",
       "Sus iniciales son F. C."
+    ],
+    "blurb_en": "Cuban politician and revolutionary.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Cuban politician and revolutionary.",
+      "Their initials are F. C."
     ]
   },
   {
@@ -2641,6 +2843,12 @@
       "Se destacó en el ámbito de: Música.",
       "Cantante, compositor y poeta estadounidense.",
       "Sus iniciales son J. M."
+    ],
+    "blurb_en": "American singer, songwriter and poet.",
+    "hints_en": [
+      "Known for: Music.",
+      "American singer, songwriter and poet.",
+      "Their initials are J. M."
     ]
   },
   {
@@ -2668,6 +2876,12 @@
       "Se destacó en el ámbito de: Música.",
       "Músico estadounidense.",
       "Sus iniciales son K. C."
+    ],
+    "blurb_en": "American musician.",
+    "hints_en": [
+      "Known for: Music.",
+      "American musician.",
+      "Their initials are K. C."
     ]
   },
   {
@@ -2695,6 +2909,12 @@
       "Se destacó en el ámbito de: Música.",
       "Cantante estadounidense.",
       "Sus iniciales son A. F."
+    ],
+    "blurb_en": "American singer.",
+    "hints_en": [
+      "Known for: Music.",
+      "American singer.",
+      "Their initials are A. F."
     ]
   },
   {
@@ -2722,6 +2942,12 @@
       "Se destacó en el ámbito de: Música.",
       "Cantante estadounidense.",
       "Sus iniciales son J. J."
+    ],
+    "blurb_en": "American singer.",
+    "hints_en": [
+      "Known for: Music.",
+      "American singer.",
+      "Their initials are J. J."
     ]
   },
   {
@@ -2749,6 +2975,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor estadounidense.",
       "Sus iniciales son M. B."
+    ],
+    "blurb_en": "American actor.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American actor.",
+      "Their initials are M. B."
     ]
   },
   {
@@ -2776,6 +3008,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Director de cine británico-estadounidense (1899–1980).",
       "Sus iniciales son A. H."
+    ],
+    "blurb_en": "British-American film director (1899–1980).",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "British-American film director (1899–1980).",
+      "Their initials are A. H."
     ]
   },
   {
@@ -2803,6 +3041,12 @@
       "Se destacó en el ámbito de: Filosofía y Religión.",
       "Filósofo chino.",
       "Sus iniciales son C."
+    ],
+    "blurb_en": "Chinese philosopher.",
+    "hints_en": [
+      "Known for: Philosophy & Religion.",
+      "Chinese philosopher.",
+      "Their initials are C."
     ]
   },
   {
@@ -2830,6 +3074,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Faraón egipcio de la XVIII dinastía, siglo XIV a. C..",
       "Sus iniciales son T."
+    ],
+    "blurb_en": "Egyptian pharaoh of the 18th dynasty, 14th century BC.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Egyptian pharaoh of the 18th dynasty, 14th century BC.",
+      "Their initials are T."
     ]
   },
   {
@@ -2857,6 +3107,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Político y revolucionario soviético.",
       "Sus iniciales son L. T."
+    ],
+    "blurb_en": "Soviet politician and revolutionary.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Soviet politician and revolutionary.",
+      "Their initials are L. T."
     ]
   },
   {
@@ -2884,6 +3140,12 @@
       "Se destacó en el ámbito de: Política.",
       "Dictador de Alemania de 1933 a 1945.",
       "Sus iniciales son A. H."
+    ],
+    "blurb_en": "Dictator of Germany from 1933 to 1945.",
+    "hints_en": [
+      "Known for: Politics.",
+      "Dictator of Germany from 1933 to 1945.",
+      "Their initials are A. H."
     ]
   },
   {
@@ -2911,6 +3173,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Montañista, piloto y explorador neozelandés.",
       "Sus iniciales son E. H."
+    ],
+    "blurb_en": "New Zealand mountaineer, pilot and explorer.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "New Zealand mountaineer, pilot and explorer.",
+      "Their initials are E. H."
     ]
   },
   {
@@ -2938,6 +3206,12 @@
       "Se destacó en el ámbito de: Filosofía y Ciencia.",
       "Filósofo griego.",
       "Sus iniciales son A."
+    ],
+    "blurb_en": "Greek philosopher.",
+    "hints_en": [
+      "Known for: Philosophy & Science.",
+      "Greek philosopher.",
+      "Their initials are A."
     ]
   },
   {
@@ -2965,6 +3239,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Rey de Macedonia y conquistador de la Persia aqueménida.",
       "Sus iniciales son A. M."
+    ],
+    "blurb_en": "King of Macedonia and conqueror of Achaemenid Persia.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "King of Macedonia and conqueror of Achaemenid Persia.",
+      "Their initials are A. M."
     ]
   },
   {
@@ -2992,6 +3272,12 @@
       "Se destacó en el ámbito de: Política.",
       "Rey de Inglaterra y señor de Irlanda (1509-1547).",
       "Sus iniciales son E. V. D. I."
+    ],
+    "blurb_en": "King of England and Lord of Ireland (1509-1547).",
+    "hints_en": [
+      "Known for: Politics.",
+      "King of England and Lord of Ireland (1509-1547).",
+      "Their initials are E. V. D. I."
     ]
   },
   {
@@ -3019,6 +3305,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Reina del Reino Unido (1837-1901).",
       "Sus iniciales son V. D. R. U."
+    ],
+    "blurb_en": "Queen of the United Kingdom (1837-1901).",
+    "hints_en": [
+      "Known for: Art.",
+      "Queen of the United Kingdom (1837-1901).",
+      "Their initials are V. D. R. U."
     ]
   },
   {
@@ -3046,6 +3338,12 @@
       "Se destacó en el ámbito de: Filosofía y Religión.",
       "Filósofo griego clásico.",
       "Sus iniciales son P."
+    ],
+    "blurb_en": "Classical Greek philosopher.",
+    "hints_en": [
+      "Known for: Philosophy & Religion.",
+      "Classical Greek philosopher.",
+      "Their initials are P."
     ]
   },
   {
@@ -3073,6 +3371,12 @@
       "Se destacó en el ámbito de: Ciencia, Exploración y Geografía.",
       "Astronauta estadounidense (1930-2012).",
       "Sus iniciales son N. A."
+    ],
+    "blurb_en": "American astronaut (1930-2012).",
+    "hints_en": [
+      "Known for: Science, Exploration & Geography.",
+      "American astronaut (1930-2012).",
+      "Their initials are N. A."
     ]
   },
   {
@@ -3100,6 +3404,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "32.º presidente de los Estados Unidos.",
       "Sus iniciales son F. D. R."
+    ],
+    "blurb_en": "32nd president of the United States.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "32nd president of the United States.",
+      "Their initials are F. D. R."
     ]
   },
   {
@@ -3127,6 +3437,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor estadounidense.",
       "Sus iniciales son M. T."
+    ],
+    "blurb_en": "American writer.",
+    "hints_en": [
+      "Known for: Literature.",
+      "American writer.",
+      "Their initials are M. T."
     ]
   },
   {
@@ -3154,6 +3470,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor, poeta y periodista estadounidense.",
       "Sus iniciales son E. A. P."
+    ],
+    "blurb_en": "American writer, poet and journalist.",
+    "hints_en": [
+      "Known for: Literature.",
+      "American writer, poet and journalist.",
+      "Their initials are E. A. P."
     ]
   },
   {
@@ -3181,6 +3503,12 @@
       "Se destacó en el ámbito de: Ciencia, Filosofía y Religión.",
       "Filósofo y matemático griego.",
       "Sus iniciales son P."
+    ],
+    "blurb_en": "Greek philosopher and mathematician.",
+    "hints_en": [
+      "Known for: Science, Philosophy & Religion.",
+      "Greek philosopher and mathematician.",
+      "Their initials are P."
     ]
   },
   {
@@ -3208,6 +3536,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Sexto rey de Babilonia y primer emperador del primer Imperio babilónico.",
       "Sus iniciales son H."
+    ],
+    "blurb_en": "Sixth king of Babylon and first emperor of the First Babylonian Empire.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Sixth king of Babylon and first emperor of the First Babylonian Empire.",
+      "Their initials are H."
     ]
   },
   {
@@ -3235,6 +3569,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Nacionalista bosnio.",
       "Sus iniciales son G. P."
+    ],
+    "blurb_en": "Bosnian nationalist.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Bosnian nationalist.",
+      "Their initials are G. P."
     ]
   },
   {
@@ -3262,6 +3602,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Secretario general de la Unión Soviética (1985-1991).",
       "Sus iniciales son M. G."
+    ],
+    "blurb_en": "General Secretary of the Soviet Union (1985-1991).",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "General Secretary of the Soviet Union (1985-1991).",
+      "Their initials are M. G."
     ]
   },
   {
@@ -3289,6 +3635,12 @@
       "Se destacó en el ámbito de: Navegante y explorador",
       "Mercader y viajero veneciano.",
       "Sus iniciales son M. P."
+    ],
+    "blurb_en": "Venetian merchant and traveler.",
+    "hints_en": [
+      "Known for: Navigation & Exploration.",
+      "Venetian merchant and traveler.",
+      "Their initials are M. P."
     ]
   },
   {
@@ -3317,6 +3669,12 @@
       "Se destacó en el ámbito de: Filosofía y Religión.",
       "264.º papa de la Iglesia católica.",
       "Sus iniciales son J. P. I."
+    ],
+    "blurb_en": "264th pope of the Catholic Church.",
+    "hints_en": [
+      "Known for: Philosophy & Religion.",
+      "264th pope of the Catholic Church.",
+      "Their initials are J. P. I."
     ]
   },
   {
@@ -3344,6 +3702,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Heroína, militar y santa francesa.",
       "Sus iniciales son J. D. A."
+    ],
+    "blurb_en": "French heroine, military leader and saint.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "French heroine, military leader and saint.",
+      "Their initials are J. D. A."
     ]
   },
   {
@@ -3371,6 +3735,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Diplomático, autor, filósofo político y escritor italiano.",
       "Sus iniciales son N. M."
+    ],
+    "blurb_en": "Italian diplomat, author, political philosopher and writer.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Italian diplomat, author, political philosopher and writer.",
+      "Their initials are N. M."
     ]
   },
   {
@@ -3398,6 +3768,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Empresario, productor, director, guionista y animador estadounidense.",
       "Sus iniciales son W. D."
+    ],
+    "blurb_en": "American entrepreneur, producer, director, screenwriter and animator.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American entrepreneur, producer, director, screenwriter and animator.",
+      "Their initials are W. D."
     ]
   },
   {
@@ -3425,6 +3801,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "265.º papa de la Iglesia católica.",
       "Sus iniciales son B. X."
+    ],
+    "blurb_en": "265th pope of the Catholic Church.",
+    "hints_en": [
+      "Known for: Literature.",
+      "265th pope of the Catholic Church.",
+      "Their initials are B. X."
     ]
   },
   {
@@ -3452,6 +3834,12 @@
       "Se destacó en el ámbito de: Filosofía y Religión.",
       "260.º papa de la Iglesia católica y 2.º Pontífice Soberano del Estado de la Ciudad del Vaticano.",
       "Sus iniciales son P. X."
+    ],
+    "blurb_en": "260th pope of the Catholic Church and 2nd Sovereign Pontiff of Vatican City State.",
+    "hints_en": [
+      "Known for: Philosophy & Religion.",
+      "260th pope of the Catholic Church and 2nd Sovereign Pontiff of Vatican City State.",
+      "Their initials are P. X."
     ]
   },
   {
@@ -3479,6 +3867,12 @@
       "Se destacó en el ámbito de: Arte y Literatura",
       "Mangaka japonés. Creador de Dragon Ball",
       "Sus iniciales son A. T."
+    ],
+    "blurb_en": "Japanese manga artist.",
+    "hints_en": [
+      "Known for: Art & Literature.",
+      "Japanese manga artist. Creator of Dragon Ball.",
+      "Their initials are A. T."
     ]
   },
   {
@@ -3506,6 +3900,12 @@
       "Se destacó en el ámbito de: Política.",
       "Emperador de Japón (1926-1989).",
       "Sus iniciales son H."
+    ],
+    "blurb_en": "Emperor of Japan (1926-1989).",
+    "hints_en": [
+      "Known for: Politics.",
+      "Emperor of Japan (1926-1989).",
+      "Their initials are H."
     ]
   },
   {
@@ -3533,6 +3933,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Ecologista australiano.",
       "Sus iniciales son S. I."
+    ],
+    "blurb_en": "Australian conservationist.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "Australian conservationist.",
+      "Their initials are S. I."
     ]
   },
   {
@@ -3560,6 +3966,12 @@
       "Se destacó en el ámbito de: Deporte.",
       "Atleta estadounidense. Olimpiadas 1936",
       "Sus iniciales son J. O."
+    ],
+    "blurb_en": "American athlete.",
+    "hints_en": [
+      "Known for: Sports.",
+      "American athlete. 1936 Olympics.",
+      "Their initials are J. O."
     ]
   },
   {
@@ -3587,6 +3999,12 @@
       "Se destacó en el ámbito de: deportista",
       "Baloncestista estadounidense. Único en anotar 100 puntos en un partido",
       "Sus iniciales son W. C."
+    ],
+    "blurb_en": "American basketball player.",
+    "hints_en": [
+      "Known for: Athlete.",
+      "American basketball player. The only one to score 100 points in a single game.",
+      "Their initials are W. C."
     ]
   },
   {
@@ -3614,6 +4032,12 @@
       "Se destacó en el ámbito de: Deporte.",
       "Futbolista argentino.",
       "Sus iniciales son A. D. S."
+    ],
+    "blurb_en": "Argentine footballer.",
+    "hints_en": [
+      "Known for: Sports.",
+      "Argentine footballer.",
+      "Their initials are A. D. S."
     ]
   },
   {
@@ -3641,6 +4065,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Político serbio.",
       "Sus iniciales son S. M."
+    ],
+    "blurb_en": "Serbian politician.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Serbian politician.",
+      "Their initials are S. M."
     ]
   },
   {
@@ -3668,6 +4098,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Político y militar croata; Presidente de Yugoslavia (1945-1980).",
       "Sus iniciales son J. B. T."
+    ],
+    "blurb_en": "Croatian politician and military officer; President of Yugoslavia (1945-1980).",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Croatian politician and military officer; President of Yugoslavia (1945-1980).",
+      "Their initials are J. B. T."
     ]
   },
   {
@@ -3695,6 +4131,12 @@
       "Se destacó en el ámbito de: Ciencia.",
       "Médico alemán y oficial nazi.",
       "Sus iniciales son J. M."
+    ],
+    "blurb_en": "German physician and Nazi officer.",
+    "hints_en": [
+      "Known for: Science.",
+      "German physician and Nazi officer.",
+      "Their initials are J. M."
     ]
   },
   {
@@ -3722,6 +4164,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Criminal de guerra nazi y uno de los principales organizadores del Holocausto.",
       "Sus iniciales son A. E."
+    ],
+    "blurb_en": "Nazi war criminal and one of the principal organizers of the Holocaust.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Nazi war criminal and one of the principal organizers of the Holocaust.",
+      "Their initials are A. E."
     ]
   },
   {
@@ -3749,6 +4197,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Político, militar y aviador alemán.",
       "Sus iniciales son H. G."
+    ],
+    "blurb_en": "German politician, military officer and aviator.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "German politician, military officer and aviator.",
+      "Their initials are H. G."
     ]
   },
   {
@@ -3776,11 +4230,20 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Militar y político alemán nazi",
       "Sus iniciales son R. H."
+    ],
+    "blurb_en": "German military officer and politician.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Nazi German military officer and politician.",
+      "Their initials are R. H."
     ]
   },
   {
     "id": "bobby-charlton-zdwf",
     "name": "Bobby Charlton",
+    "aliases": [
+      "charlton"
+    ],
     "category": "deporte",
     "difficulty": "medio",
     "birthYear": 1937,
@@ -3798,19 +4261,24 @@
       "place_en": "Macclesfield District General Hospital, United Kingdom"
     },
     "blurb": "Futbolista británico.",
-    "aliases": [
-      "charlton"
-    ],
     "blurb_en": "English association football player and manager (1937–2023).",
     "hints": [
       "Se destacó en el ámbito de: Deporte.",
       "Futbolista británico.",
       "Sus iniciales son B. C."
+    ],
+    "hints_en": [
+      "Known for: Sports.",
+      "English association football player and manager (1937–2023).",
+      "Their initials are B. C."
     ]
   },
   {
     "id": "ferenc-puskas-zfac",
     "name": "Ferenc Puskás",
+    "aliases": [
+      "puskas"
+    ],
     "category": "deporte",
     "difficulty": "facil",
     "birthYear": 1927,
@@ -3828,19 +4296,24 @@
       "place_en": "Budapest, Hungary"
     },
     "blurb": "Futbolista hispanohúngaro.",
-    "aliases": [
-      "puskas"
-    ],
     "blurb_en": "Hungarian association football player (1927–2006).",
     "hints": [
       "Se destacó en el ámbito de: Deporte.",
       "Futbolista hispanohúngaro.",
       "Sus iniciales son F. P."
+    ],
+    "hints_en": [
+      "Known for: Sports.",
+      "Hungarian association football player (1927–2006).",
+      "Their initials are F. P."
     ]
   },
   {
     "id": "lev-yashin-zgyr",
     "name": "Lev Yashin",
+    "aliases": [
+      "yashin"
+    ],
     "category": "deporte",
     "difficulty": "medio",
     "birthYear": 1929,
@@ -3858,19 +4331,24 @@
       "place_en": "Moscow, Duchy of Moscow"
     },
     "blurb": "Futbolista soviético (1929–1990).",
-    "aliases": [
-      "yashin"
-    ],
     "blurb_en": "Player for U.S.S.R (1929–1990).",
     "hints": [
       "Se destacó en el ámbito de: Deporte.",
       "Futbolista soviético (1929–1990).",
       "Sus iniciales son L. Y."
+    ],
+    "hints_en": [
+      "Known for: Sports.",
+      "Player for U.S.S.R (1929–1990).",
+      "Their initials are L. Y."
     ]
   },
   {
     "id": "gerd-muller-zkbt",
     "name": "Gerd Müller",
+    "aliases": [
+      "muller"
+    ],
     "category": "deporte",
     "difficulty": "facil",
     "birthYear": 1945,
@@ -3888,14 +4366,16 @@
       "place_en": "Wolfratshausen, Germany"
     },
     "blurb": "Futbolista alemán.",
-    "aliases": [
-      "muller"
-    ],
     "blurb_en": "German association football player (1945–2021).",
     "hints": [
       "Se destacó en el ámbito de: Deporte.",
       "Futbolista alemán.",
       "Sus iniciales son G. M."
+    ],
+    "hints_en": [
+      "Known for: Sports.",
+      "German association football player (1945–2021).",
+      "Their initials are G. M."
     ]
   },
   {
@@ -3923,6 +4403,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Diplomático y político estadounidense.",
       "Sus iniciales son H. K."
+    ],
+    "blurb_en": "American diplomat and politician.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "American diplomat and politician.",
+      "Their initials are H. K."
     ]
   },
   {
@@ -3950,6 +4436,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor estadounidense.",
       "Sus iniciales son P. S. H."
+    ],
+    "blurb_en": "American actor.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American actor.",
+      "Their initials are P. S. H."
     ]
   },
   {
@@ -3977,11 +4469,20 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor estadounidense.",
       "Sus iniciales son J. D."
+    ],
+    "blurb_en": "American actor.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American actor.",
+      "Their initials are J. D."
     ]
   },
   {
     "id": "katharine-hepburn-5u2u",
     "name": "Katharine Hepburn",
+    "aliases": [
+      "hepburn"
+    ],
     "category": "cine_espectaculo",
     "difficulty": "facil",
     "birthYear": 1907,
@@ -3999,19 +4500,24 @@
       "place_en": "Old Saybrook, United States"
     },
     "blurb": "Actriz estadounidense.",
-    "aliases": [
-      "hepburn"
-    ],
     "blurb_en": "American actress (1907–2003).",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actriz estadounidense.",
       "Sus iniciales son K. H."
+    ],
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American actress (1907–2003).",
+      "Their initials are K. H."
     ]
   },
   {
     "id": "humphrey-bogart-5v53",
     "name": "Humphrey Bogart",
+    "aliases": [
+      "bogart"
+    ],
     "category": "cine_espectaculo",
     "difficulty": "facil",
     "birthYear": 1899,
@@ -4029,19 +4535,24 @@
       "place_en": "Los Angeles, United States"
     },
     "blurb": "Actor estadounidense.",
-    "aliases": [
-      "bogart"
-    ],
     "blurb_en": "American actor (1899–1957).",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor estadounidense.",
       "Sus iniciales son H. B."
+    ],
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American actor (1899–1957).",
+      "Their initials are H. B."
     ]
   },
   {
     "id": "james-stewart-5wjp",
     "name": "James Stewart",
+    "aliases": [
+      "stewart"
+    ],
     "category": "cine_espectaculo",
     "difficulty": "facil",
     "birthYear": 1908,
@@ -4059,19 +4570,24 @@
       "place_en": "Beverly Hills, United States"
     },
     "blurb": "Actor estadounidense.",
-    "aliases": [
-      "stewart"
-    ],
     "blurb_en": "American actor and military officer (1908–1997).",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor estadounidense.",
       "Sus iniciales son J. S."
+    ],
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American actor and military officer (1908–1997).",
+      "Their initials are J. S."
     ]
   },
   {
     "id": "ingrid-bergman-5y4j",
     "name": "Ingrid Bergman",
+    "aliases": [
+      "bergman"
+    ],
     "category": "cine_espectaculo",
     "difficulty": "facil",
     "birthYear": 1915,
@@ -4089,19 +4605,24 @@
       "place_en": "London, Roman Empire"
     },
     "blurb": "Actriz sueca (1915-1982).",
-    "aliases": [
-      "bergman"
-    ],
     "blurb_en": "Swedish actress (1915–1982).",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actriz sueca (1915-1982).",
       "Sus iniciales son I. B."
+    ],
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "Swedish actress (1915–1982).",
+      "Their initials are I. B."
     ]
   },
   {
     "id": "greta-garbo-5zw6",
     "name": "Greta Garbo",
+    "aliases": [
+      "garbo"
+    ],
     "category": "cine_espectaculo",
     "difficulty": "facil",
     "birthYear": 1905,
@@ -4119,19 +4640,24 @@
       "place_en": "New York City, United States"
     },
     "blurb": "Actriz suecoestadounidense.",
-    "aliases": [
-      "garbo"
-    ],
     "blurb_en": "Swedish-American actress (1905–1990).",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actriz suecoestadounidense.",
       "Sus iniciales son G. G."
+    ],
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "Swedish-American actress (1905–1990).",
+      "Their initials are G. G."
     ]
   },
   {
     "id": "fred-astaire-61r2",
     "name": "Fred Astaire",
+    "aliases": [
+      "astaire"
+    ],
     "category": "cine_espectaculo",
     "difficulty": "facil",
     "birthYear": 1899,
@@ -4149,19 +4675,24 @@
       "place_en": "Los Angeles, United States"
     },
     "blurb": "Actor, bailarín y cantante estadounidense.",
-    "aliases": [
-      "astaire"
-    ],
     "blurb_en": "American dancer, actor, and singer (1899–1987).",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor, bailarín y cantante estadounidense.",
       "Sus iniciales son F. A."
+    ],
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American dancer, actor, and singer (1899–1987).",
+      "Their initials are F. A."
     ]
   },
   {
     "id": "marlene-dietrich-63ly",
     "name": "Marlene Dietrich",
+    "aliases": [
+      "dietrich"
+    ],
     "category": "cine_espectaculo",
     "difficulty": "facil",
     "birthYear": 1901,
@@ -4179,19 +4710,24 @@
       "place_en": "8th arrondissement of Paris, France"
     },
     "blurb": "Actriz y cantante germanoestadounidense.",
-    "aliases": [
-      "dietrich"
-    ],
     "blurb_en": "German and American actress and singer (1901–1992).",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actriz y cantante germanoestadounidense.",
       "Sus iniciales son M. D."
+    ],
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "German and American actress and singer (1901–1992).",
+      "Their initials are M. D."
     ]
   },
   {
     "id": "john-wayne-64z7",
     "name": "John Wayne",
+    "aliases": [
+      "wayne"
+    ],
     "category": "cine_espectaculo",
     "difficulty": "facil",
     "birthYear": 1907,
@@ -4209,19 +4745,24 @@
       "place_en": "Westwood, United States"
     },
     "blurb": "Actor estadounidense.",
-    "aliases": [
-      "wayne"
-    ],
     "blurb_en": "American actor (1907–1979).",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor estadounidense.",
       "Sus iniciales son J. W."
+    ],
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American actor (1907–1979).",
+      "Their initials are J. W."
     ]
   },
   {
     "id": "groucho-marx-66kv",
     "name": "Groucho Marx",
+    "aliases": [
+      "marx"
+    ],
     "category": "cine_espectaculo",
     "difficulty": "facil",
     "birthYear": 1890,
@@ -4239,19 +4780,24 @@
       "place_en": "Cedars-Sinai Medical Center, United States"
     },
     "blurb": "Actor y humorista estadounidense.",
-    "aliases": [
-      "marx"
-    ],
     "blurb_en": "American comedian (1890–1977).",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor y humorista estadounidense.",
       "Sus iniciales son G. M."
+    ],
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American comedian (1890–1977).",
+      "Their initials are G. M."
     ]
   },
   {
     "id": "lauren-bacall-68gt",
     "name": "Lauren Bacall",
+    "aliases": [
+      "bacall"
+    ],
     "category": "cine_espectaculo",
     "difficulty": "facil",
     "birthYear": 1924,
@@ -4269,14 +4815,16 @@
       "place_en": "Manhattan, United States"
     },
     "blurb": "Actriz estadounidense.",
-    "aliases": [
-      "bacall"
-    ],
     "blurb_en": "American actress (1924–2014).",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actriz estadounidense.",
       "Sus iniciales son L. B."
+    ],
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American actress (1924–2014).",
+      "Their initials are L. B."
     ]
   },
   {
@@ -4304,6 +4852,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Político, militar y dictador egipcio.",
       "Sus iniciales son H. M."
+    ],
+    "blurb_en": "Egyptian politician, military officer and dictator.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Egyptian politician, military officer and dictator.",
+      "Their initials are H. M."
     ]
   },
   {
@@ -4331,6 +4885,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Militar, dictador y político libio.",
       "Sus iniciales son M. E. G."
+    ],
+    "blurb_en": "Libyan military officer, dictator and politician.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Libyan military officer, dictator and politician.",
+      "Their initials are M. E. G."
     ]
   },
   {
@@ -4358,6 +4918,12 @@
       "Se destacó en el ámbito de: Política",
       "Político y militar iraquí.",
       "Sus iniciales son S. H."
+    ],
+    "blurb_en": "Iraqi politician and military officer.",
+    "hints_en": [
+      "Known for: Politics.",
+      "Iraqi politician and military officer.",
+      "Their initials are S. H."
     ]
   },
   {
@@ -4385,6 +4951,12 @@
       "Se destacó en el ámbito de: guerrilla.",
       "Terrorista saudí, fundador y emir de Al-Qaeda.",
       "Sus iniciales son O. B. L."
+    ],
+    "blurb_en": "Saudi terrorist, founder and emir of Al-Qaeda.",
+    "hints_en": [
+      "Known for: Guerrilla warfare.",
+      "Saudi terrorist, founder and emir of Al-Qaeda.",
+      "Their initials are O. B. L."
     ]
   },
   {
@@ -4412,6 +4984,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Princesa consorte de Gales (1961-1997).",
       "Sus iniciales son D. D. G."
+    ],
+    "blurb_en": "Princess consort of Wales (1961-1997).",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Princess consort of Wales (1961-1997).",
+      "Their initials are D. D. G."
     ]
   },
   {
@@ -4439,6 +5017,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor, director, guionista y productor de cine estadounidense. Dirigió \"Citizen Kane\"",
       "Sus iniciales son O. W."
+    ],
+    "blurb_en": "American film actor, director, screenwriter and producer.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American film actor, director, screenwriter and producer. Directed \"Citizen Kane\".",
+      "Their initials are O. W."
     ]
   },
   {
@@ -4466,6 +5050,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Director de cine estadounidense. Creador de Twin Peaks",
       "Sus iniciales son D. L."
+    ],
+    "blurb_en": "American film director.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American film director. Creator of Twin Peaks.",
+      "Their initials are D. L."
     ]
   },
   {
@@ -4493,6 +5083,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Director de cine italiano.",
       "Sus iniciales son F. F."
+    ],
+    "blurb_en": "Italian film director.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "Italian film director.",
+      "Their initials are F. F."
     ]
   },
   {
@@ -4520,6 +5116,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Cineasta japonés.",
       "Sus iniciales son A. K."
+    ],
+    "blurb_en": "Japanese filmmaker.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "Japanese filmmaker.",
+      "Their initials are A. K."
     ]
   },
   {
@@ -4547,6 +5149,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor, cómico, compositor, productor, director y escritor británico.",
       "Sus iniciales son C. C."
+    ],
+    "blurb_en": "British actor, comedian, composer, producer, director and writer.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "British actor, comedian, composer, producer, director and writer.",
+      "Their initials are C. C."
     ]
   },
   {
@@ -4574,6 +5182,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor británico (1859-1930). Creador de Sherlock Holmes",
       "Sus iniciales son A. C. D."
+    ],
+    "blurb_en": "British writer (1859-1930).",
+    "hints_en": [
+      "Known for: Literature.",
+      "British writer (1859-1930). Creator of Sherlock Holmes.",
+      "Their initials are A. C. D."
     ]
   },
   {
@@ -4601,6 +5215,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritora británica.",
       "Sus iniciales son A. C."
+    ],
+    "blurb_en": "British writer.",
+    "hints_en": [
+      "Known for: Literature.",
+      "British writer.",
+      "Their initials are A. C."
     ]
   },
   {
@@ -4629,6 +5249,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Archiduque de Austria y heredero del trono de Austria-Hungría (1863-1914).",
       "Sus iniciales son F. F. D. A."
+    ],
+    "blurb_en": "Archduke of Austria and heir to the throne of Austria-Hungary (1863-1914).",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Archduke of Austria and heir to the throne of Austria-Hungary (1863-1914).",
+      "Their initials are F. F. D. A."
     ]
   },
   {
@@ -4656,6 +5282,12 @@
       "Se destacó en el ámbito de: Política.",
       "Política británica, primera ministra del Reino Unido.",
       "Sus iniciales son M. T."
+    ],
+    "blurb_en": "British politician, Prime Minister of the United Kingdom.",
+    "hints_en": [
+      "Known for: Politics.",
+      "British politician, Prime Minister of the United Kingdom.",
+      "Their initials are M. T."
     ]
   },
   {
@@ -4683,6 +5315,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "30.º y 33.º presidente de Venezuela.",
       "Sus iniciales son H. C."
+    ],
+    "blurb_en": "30th and 33rd president of Venezuela.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "30th and 33rd president of Venezuela.",
+      "Their initials are H. C."
     ]
   },
   {
@@ -4710,6 +5348,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Militar y dictador español (1892-1975).",
       "Sus iniciales son F. F. B."
+    ],
+    "blurb_en": "Spanish military officer and dictator (1892-1975).",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Spanish military officer and dictator (1892-1975).",
+      "Their initials are F. F. B."
     ]
   },
   {
@@ -4737,6 +5381,12 @@
       "Se destacó en el ámbito de: Literatura",
       "Escritor español.",
       "Sus iniciales son F. G. L."
+    ],
+    "blurb_en": "Spanish writer.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Spanish writer.",
+      "Their initials are F. G. L."
     ]
   },
   {
@@ -4764,6 +5414,12 @@
       "Se destacó en el ámbito de: Política.",
       "Líder político palestino.",
       "Sus iniciales son Y. A."
+    ],
+    "blurb_en": "Palestinian political leader.",
+    "hints_en": [
+      "Known for: Politics.",
+      "Palestinian political leader.",
+      "Their initials are Y. A."
     ]
   },
   {
@@ -4791,6 +5447,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Político y dictador rumano.",
       "Sus iniciales son N. C."
+    ],
+    "blurb_en": "Romanian politician and dictator.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Romanian politician and dictator.",
+      "Their initials are N. C."
     ]
   },
   {
@@ -4818,6 +5480,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor mexicano.",
       "Sus iniciales son J. R."
+    ],
+    "blurb_en": "Mexican writer.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Mexican writer.",
+      "Their initials are J. R."
     ]
   },
   {
@@ -4845,6 +5513,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Poeta italiano.",
       "Sus iniciales son D. A."
+    ],
+    "blurb_en": "Italian poet.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Italian poet.",
+      "Their initials are D. A."
     ]
   },
   {
@@ -4872,6 +5546,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Pintor y arquitecto renacentista italiano.",
       "Sus iniciales son R. S."
+    ],
+    "blurb_en": "Italian Renaissance painter and architect.",
+    "hints_en": [
+      "Known for: Art.",
+      "Italian Renaissance painter and architect.",
+      "Their initials are R. S."
     ]
   },
   {
@@ -4899,6 +5579,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Pintor, escultor y arquitecto italiano.",
       "Sus iniciales son M. Á."
+    ],
+    "blurb_en": "Italian painter, sculptor and architect.",
+    "hints_en": [
+      "Known for: Art.",
+      "Italian painter, sculptor and architect.",
+      "Their initials are M. Á."
     ]
   },
   {
@@ -4926,6 +5612,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Historiador y geógrafo griego, padre de la historia.",
       "Sus iniciales son H."
+    ],
+    "blurb_en": "Greek historian and geographer, the 'father of history'.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Greek historian and geographer, the 'father of history'.",
+      "Their initials are H."
     ]
   },
   {
@@ -4954,6 +5646,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Marino y explorador chino (1371-1433).",
       "Sus iniciales son Z. H."
+    ],
+    "blurb_en": "Chinese mariner and explorer (1371-1433).",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Chinese mariner and explorer (1371-1433).",
+      "Their initials are Z. H."
     ]
   },
   {
@@ -4981,6 +5679,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Médico, explorador y misionero británico.",
       "Sus iniciales son D. L."
+    ],
+    "blurb_en": "British physician, explorer and missionary.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "British physician, explorer and missionary.",
+      "Their initials are D. L."
     ]
   },
   {
@@ -5008,6 +5712,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Explorador y periodista británico nacionalizado estadounidense.",
       "Sus iniciales son H. M. S."
+    ],
+    "blurb_en": "British-born American explorer and journalist.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "British-born American explorer and journalist.",
+      "Their initials are H. M. S."
     ]
   },
   {
@@ -5035,6 +5745,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Arqueólogo y explorador inglés.",
       "Sus iniciales son P. F."
+    ],
+    "blurb_en": "English archaeologist and explorer.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "English archaeologist and explorer.",
+      "Their initials are P. F."
     ]
   },
   {
@@ -5062,6 +5778,12 @@
       "Se destacó en el ámbito de: Ciencia y zoología",
       "Etóloga y activista británica (1934-2025). Famosa por su  estudio de chimpancés",
       "Sus iniciales son J. G."
+    ],
+    "blurb_en": "British ethologist and activist (1934-2025).",
+    "hints_en": [
+      "Known for: Science & Zoology.",
+      "British ethologist and activist (1934-2025). Famous for her study of chimpanzees.",
+      "Their initials are J. G."
     ]
   },
   {
@@ -5089,6 +5811,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Militar y político argentino.",
       "Sus iniciales son J. D. S. M."
+    ],
+    "blurb_en": "Argentine military officer and politician.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Argentine military officer and politician.",
+      "Their initials are J. D. S. M."
     ]
   },
   {
@@ -5116,6 +5844,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor, poeta y pintor suizoalemán.",
       "Sus iniciales son H. H."
+    ],
+    "blurb_en": "Swiss-German writer, poet and painter.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Swiss-German writer, poet and painter.",
+      "Their initials are H. H."
     ]
   },
   {
@@ -5143,6 +5877,12 @@
       "Se destacó en el ámbito de: Literatura",
       "Escritor, periodista y filósofo francés, de origen argelino.",
       "Sus iniciales son A. C."
+    ],
+    "blurb_en": "French writer, journalist and philosopher of Algerian origin.",
+    "hints_en": [
+      "Known for: Literature.",
+      "French writer, journalist and philosopher of Algerian origin.",
+      "Their initials are A. C."
     ]
   },
   {
@@ -5170,6 +5910,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor estadounidense.",
       "Sus iniciales son J. S."
+    ],
+    "blurb_en": "American writer.",
+    "hints_en": [
+      "Known for: Literature.",
+      "American writer.",
+      "Their initials are J. S."
     ]
   },
   {
@@ -5197,6 +5943,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor, novelista, poeta, periodista y dramaturgo portugués.",
       "Sus iniciales son J. S."
+    ],
+    "blurb_en": "Portuguese writer, novelist, poet, journalist and playwright.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Portuguese writer, novelist, poet, journalist and playwright.",
+      "Their initials are J. S."
     ]
   },
   {
@@ -5224,6 +5976,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor peruano, autor de \"La ciudad y los perros\"",
       "Sus iniciales son M. V. L."
+    ],
+    "blurb_en": "Peruvian, Spanish and Dominican writer.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Peruvian writer, author of \"The Time of the Hero\".",
+      "Their initials are M. V. L."
     ]
   },
   {
@@ -5251,6 +6009,12 @@
       "Se destacó en el ámbito de: Música.",
       "Músico hawaiano.",
       "Sus iniciales son I. K."
+    ],
+    "blurb_en": "Hawaiian musician.",
+    "hints_en": [
+      "Known for: Music.",
+      "Hawaiian musician.",
+      "Their initials are I. K."
     ]
   },
   {
@@ -5279,6 +6043,12 @@
       "Se destacó en el ámbito de: Deporte.",
       "Boxeador argentino.",
       "Sus iniciales son O. B."
+    ],
+    "blurb_en": "Argentine boxer.",
+    "hints_en": [
+      "Known for: Sports.",
+      "Argentine boxer.",
+      "Their initials are O. B."
     ]
   },
   {
@@ -5306,6 +6076,12 @@
       "Se destacó en el ámbito de: Deporte.",
       "Boxeador argentino.",
       "Sus iniciales son C. M."
+    ],
+    "blurb_en": "Argentine boxer.",
+    "hints_en": [
+      "Known for: Sports.",
+      "Argentine boxer.",
+      "Their initials are C. M."
     ]
   },
   {
@@ -5333,6 +6109,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor neozelandés conocido por protagonizar Jurassic Park",
       "Sus iniciales son S. N."
+    ],
+    "blurb_en": "New Zealand actor.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "New Zealand actor known for starring in Jurassic Park.",
+      "Their initials are S. N."
     ]
   },
   {
@@ -5360,6 +6142,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor estadounidense-canadiense, protagonista de la serie de TV \"Friends\"",
       "Sus iniciales son M. P."
+    ],
+    "blurb_en": "American-Canadian actor.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American-Canadian actor, star of the TV series \"Friends\".",
+      "Their initials are M. P."
     ]
   },
   {
@@ -5387,6 +6175,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor y comediante canadoestadounidense, protagonista de la saga \"Naked Gun\"",
       "Sus iniciales son L. N."
+    ],
+    "blurb_en": "Canadian-American actor and comedian (1926-2010).",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "Canadian-American actor and comedian, star of the \"Naked Gun\" series.",
+      "Their initials are L. N."
     ]
   },
   {
@@ -5414,6 +6208,12 @@
       "Se destacó en el ámbito de: Política, cine y Espectáculo.",
       "40.º presidente de los Estados Unidos.",
       "Sus iniciales son R. R."
+    ],
+    "blurb_en": "40th president of the United States.",
+    "hints_en": [
+      "Known for: Politics, Film & Entertainment.",
+      "40th president of the United States.",
+      "Their initials are R. R."
     ]
   },
   {
@@ -5441,6 +6241,12 @@
       "Se destacó en el ámbito de política",
       "Primer ministro congoleño, ejecutado por la administración belga y declarado póstumamente héroe nacional.",
       "Sus iniciales son P. L."
+    ],
+    "blurb_en": "Congolese prime minister, executed under the Belgian administration and posthumously declared a national hero.",
+    "hints_en": [
+      "Known for: Politics.",
+      "Congolese prime minister, executed under the Belgian administration and posthumously declared a national hero.",
+      "Their initials are P. L."
     ]
   },
   {
@@ -5468,6 +6274,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Militar y político burkinés (1949-1987).",
       "Sus iniciales son T. S."
+    ],
+    "blurb_en": "Burkinabe military officer and politician (1949-1987).",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Burkinabe military officer and politician (1949-1987).",
+      "Their initials are T. S."
     ]
   },
   {
@@ -5495,6 +6307,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Revolucionario nicaragüense.",
       "Sus iniciales son A. C. S."
+    ],
+    "blurb_en": "Nicaraguan revolutionary.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Nicaraguan revolutionary.",
+      "Their initials are A. C. S."
     ]
   },
   {
@@ -5522,6 +6340,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Militar y político chileno.",
       "Sus iniciales son B. O."
+    ],
+    "blurb_en": "Chilean military officer and politician.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Chilean military officer and politician.",
+      "Their initials are B. O."
     ]
   },
   {
@@ -5549,6 +6373,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Conquistador del Perú para el Imperio español y gobernador de Nueva Castilla.",
       "Sus iniciales son F. P."
+    ],
+    "blurb_en": "Conqueror of Peru for the Spanish Empire and governor of New Castile.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Conqueror of Peru for the Spanish Empire and governor of New Castile.",
+      "Their initials are F. P."
     ]
   },
   {
@@ -5576,6 +6406,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Militar, explorador y escritor español.",
       "Sus iniciales son H. C."
+    ],
+    "blurb_en": "Spanish military officer, explorer and writer.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Spanish military officer, explorer and writer.",
+      "Their initials are H. C."
     ]
   },
   {
@@ -5603,6 +6439,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Sultán de Egipto y Siria, fundador de la dinastía ayubí.",
       "Sus iniciales son S."
+    ],
+    "blurb_en": "Sultan of Egypt and Syria, founder of the Ayyubid dynasty.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Sultan of Egypt and Syria, founder of the Ayyubid dynasty.",
+      "Their initials are S."
     ]
   },
   {
@@ -5630,6 +6472,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Oficial alemán de alto rango de las SS.",
       "Sus iniciales son R. H."
+    ],
+    "blurb_en": "High-ranking German SS officer.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "High-ranking German SS officer.",
+      "Their initials are R. H."
     ]
   },
   {
@@ -5657,6 +6505,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Político alemán, líder nazi de las SS.",
       "Sus iniciales son H. H."
+    ],
+    "blurb_en": "German politician, supreme leader of the SS.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "German politician, Nazi leader of the SS.",
+      "Their initials are H. H."
     ]
   },
   {
@@ -5684,6 +6538,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Emperador de Rusia (1894-1917) y santo de la Iglesia ortodoxa rusia fuera de Rusia.",
       "Sus iniciales son N. II. D. R."
+    ],
+    "blurb_en": "Emperor of Russia (1894-1917) and saint of the Russian Orthodox Church Outside Russia.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Emperor of Russia (1894-1917) and saint of the Russian Orthodox Church Outside Russia.",
+      "Their initials are N. II. D. R."
     ]
   },
   {
@@ -5711,6 +6571,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Emperador de Austria.",
       "Sus iniciales son F. J. I. D. A."
+    ],
+    "blurb_en": "Emperor of Austria.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Emperor of Austria.",
+      "Their initials are F. J. I. D. A."
     ]
   },
   {
@@ -5738,6 +6604,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Rey del Reino Unido y los Dominios Británicos y emperador de la India (1910-1936).",
       "Sus iniciales son J. V. D. R. U."
+    ],
+    "blurb_en": "King of the United Kingdom and the British Dominions and Emperor of India (1910-1936).",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "King of the United Kingdom and the British Dominions and Emperor of India (1910-1936).",
+      "Their initials are J. V. D. R. U."
     ]
   },
   {
@@ -5765,6 +6637,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Rey de Italia (1900-1946).",
       "Sus iniciales son V. M. I. D. I."
+    ],
+    "blurb_en": "King of Italy (1900-1946).",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "King of Italy (1900-1946).",
+      "Their initials are V. M. I. D. I."
     ]
   },
   {
@@ -5792,6 +6670,12 @@
       "Se destacó en el ámbito de: Política.",
       "Político, militar y dictador italiano.",
       "Sus iniciales son B. M."
+    ],
+    "blurb_en": "Italian politician, military officer and dictator.",
+    "hints_en": [
+      "Known for: Politics.",
+      "Italian politician, military officer and dictator.",
+      "Their initials are B. M."
     ]
   },
   {
@@ -5819,6 +6703,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Militar y político soviético.",
       "Sus iniciales son G. Z."
+    ],
+    "blurb_en": "Soviet military officer and politician.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Soviet military officer and politician.",
+      "Their initials are G. Z."
     ]
   },
   {
@@ -5846,6 +6736,12 @@
       "Se destacó en el ámbito de: Político y militar.",
       "34.º presidente de los Estados Unidos, Comandante supremo aliado en Europa en la WWII",
       "Sus iniciales son D. D. E."
+    ],
+    "blurb_en": "34th president of the United States.",
+    "hints_en": [
+      "Known for: Politics & Military.",
+      "34th president of the United States, Supreme Allied Commander in Europe in WWII.",
+      "Their initials are D. D. E."
     ]
   },
   {
@@ -5873,6 +6769,12 @@
       "Se destacó en el ámbito de: Militar.",
       "General estadounidense, destacado en la Segunda Guerra Mundial.",
       "Sus iniciales son G. P."
+    ],
+    "blurb_en": "American general, prominent in World War II.",
+    "hints_en": [
+      "Known for: Military.",
+      "American general, prominent in World War II.",
+      "Their initials are G. P."
     ]
   },
   {
@@ -5900,6 +6802,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Militar estadounidense. Comandante Supremo Aliado del Pacífico en la WWII",
       "Sus iniciales son D. M."
+    ],
+    "blurb_en": "American military officer.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "American military officer. Supreme Allied Commander in the Pacific in WWII.",
+      "Their initials are D. M."
     ]
   },
   {
@@ -5927,6 +6835,12 @@
       "Se destacó en el ámbito de: navegante",
       "Marino británico al mando del RMS Titanic",
       "Sus iniciales son E. S."
+    ],
+    "blurb_en": "British sailor.",
+    "hints_en": [
+      "Known for: Navigation.",
+      "British sailor in command of the RMS Titanic.",
+      "Their initials are E. S."
     ]
   },
   {
@@ -5954,6 +6868,12 @@
       "Se destacó en el ámbito de: Política.",
       "Abogado, escritor, filósofo, orador y político francés.",
       "Sus iniciales son M. R."
+    ],
+    "blurb_en": "French lawyer, writer, philosopher, orator and politician.",
+    "hints_en": [
+      "Known for: Politics.",
+      "French lawyer, writer, philosopher, orator and politician.",
+      "Their initials are M. R."
     ]
   },
   {
@@ -5981,6 +6901,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Líder sionista, sindicalista, periodista, político y estadista israelí, Primer Ministro de Israel.",
       "Sus iniciales son D. B."
+    ],
+    "blurb_en": "Zionist leader, trade unionist, journalist, politician and Israeli statesman, Prime Minister of Israel.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Zionist leader, trade unionist, journalist, politician and Israeli statesman, Prime Minister of Israel.",
+      "Their initials are D. B."
     ]
   },
   {
@@ -6008,6 +6934,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Militar boliviana.",
       "Sus iniciales son J. A."
+    ],
+    "blurb_en": "Bolivian military leader.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Bolivian military leader.",
+      "Their initials are J. A."
     ]
   },
   {
@@ -6035,6 +6967,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor y filólogo inglés, creador de la saga \"Lord of the Rings\"",
       "Sus iniciales son J. R. R. T."
+    ],
+    "blurb_en": "English writer and philologist.",
+    "hints_en": [
+      "Known for: Literature.",
+      "English writer and philologist, creator of \"The Lord of the Rings\".",
+      "Their initials are J. R. R. T."
     ]
   },
   {
@@ -6062,6 +7000,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritora británica (1818–1848). Escritora de \"Cumbres Borrascosas\"",
       "Sus iniciales son E. B."
+    ],
+    "blurb_en": "British writer (1818–1848).",
+    "hints_en": [
+      "Known for: Literature.",
+      "British writer (1818–1848). Author of \"Wuthering Heights\".",
+      "Their initials are E. B."
     ]
   },
   {
@@ -6089,6 +7033,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritora británica, creadora de \"Jane Eyre\"",
       "Sus iniciales son C. B."
+    ],
+    "blurb_en": "British writer.",
+    "hints_en": [
+      "Known for: Literature.",
+      "British writer, author of \"Jane Eyre\".",
+      "Their initials are C. B."
     ]
   },
   {
@@ -6116,6 +7066,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritora británica, autora de \"Agnes Grey\"",
       "Sus iniciales son A. B."
+    ],
+    "blurb_en": "British writer.",
+    "hints_en": [
+      "Known for: Literature.",
+      "British writer, author of \"Agnes Grey\".",
+      "Their initials are A. B."
     ]
   },
   {
@@ -6143,6 +7099,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritora inglesa (1775-1817), autora de \"Orgullo y prejuicio\"",
       "Sus iniciales son J. A."
+    ],
+    "blurb_en": "English writer (1775-1817).",
+    "hints_en": [
+      "Known for: Literature.",
+      "English writer (1775-1817), author of \"Pride and Prejudice\".",
+      "Their initials are J. A."
     ]
   },
   {
@@ -6170,6 +7132,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor y traductor argentino.",
       "Sus iniciales son J. C."
+    ],
+    "blurb_en": "Argentine writer and translator.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Argentine writer and translator.",
+      "Their initials are J. C."
     ]
   },
   {
@@ -6197,6 +7165,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Navegante descubridor del Río de la Plata.",
       "Sus iniciales son J. D. D. S."
+    ],
+    "blurb_en": "Navigator who discovered the Río de la Plata.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Navigator who discovered the Río de la Plata.",
+      "Their initials are J. D. D. S."
     ]
   },
   {
@@ -6224,6 +7198,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Marinero español. Primer circunnavegante alrededor del globo.",
       "Sus iniciales son J. S. E."
+    ],
+    "blurb_en": "Spanish sailor.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Spanish sailor. First to circumnavigate the globe.",
+      "Their initials are J. S. E."
     ]
   },
   {
@@ -6251,6 +7231,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Militar, político y dictador camboyano.",
       "Sus iniciales son P. P."
+    ],
+    "blurb_en": "Cambodian military officer, politician and dictator.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Cambodian military officer, politician and dictator.",
+      "Their initials are P. P."
     ]
   },
   {
@@ -6278,6 +7264,12 @@
       "Se destacó en el ámbito de: Política.",
       "Presidente del Perú de 1990 a 2000.",
       "Sus iniciales son A. F."
+    ],
+    "blurb_en": "President of Peru from 1990 to 2000.",
+    "hints_en": [
+      "Known for: Politics.",
+      "President of Peru from 1990 to 2000.",
+      "Their initials are A. F."
     ]
   },
   {
@@ -6305,6 +7297,12 @@
       "Se destacó en el ámbito de: Política",
       "Presidente de Argentina de 1989 a 1999.",
       "Sus iniciales son C. S. M."
+    ],
+    "blurb_en": "President of Argentina from 1989 to 1999.",
+    "hints_en": [
+      "Known for: Politics.",
+      "President of Argentina from 1989 to 1999.",
+      "Their initials are C. S. M."
     ]
   },
   {
@@ -6332,6 +7330,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Presidente de Argentina de 2003 a 2007.",
       "Sus iniciales son N. K."
+    ],
+    "blurb_en": "President of Argentina from 2003 to 2007.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "President of Argentina from 2003 to 2007.",
+      "Their initials are N. K."
     ]
   },
   {
@@ -6359,6 +7363,12 @@
       "Se destacó en el ámbito de: Política.",
       "1.er Presidente de la Federación de Rusia.",
       "Sus iniciales son B. Y."
+    ],
+    "blurb_en": "1st President of the Russian Federation.",
+    "hints_en": [
+      "Known for: Politics.",
+      "1st President of the Russian Federation.",
+      "Their initials are B. Y."
     ]
   },
   {
@@ -6386,6 +7396,12 @@
       "Se destacó en el ámbito de: Negocios y Tecnología.",
       "Magnate griego.",
       "Sus iniciales son A. O."
+    ],
+    "blurb_en": "Greek tycoon.",
+    "hints_en": [
+      "Known for: Business & Technology.",
+      "Greek tycoon.",
+      "Their initials are A. O."
     ]
   },
   {
@@ -6413,6 +7429,12 @@
       "Se destacó en el ámbito de: Filosofía y Religión.",
       "Teólogo y fraile alemán",
       "Sus iniciales son M. L."
+    ],
+    "blurb_en": "German theologian and friar.",
+    "hints_en": [
+      "Known for: Philosophy & Religion.",
+      "German theologian and friar.",
+      "Their initials are M. L."
     ]
   },
   {
@@ -6440,6 +7462,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Pintor simbolista austriaco.",
       "Sus iniciales son G. K."
+    ],
+    "blurb_en": "Austrian Symbolist painter.",
+    "hints_en": [
+      "Known for: Art.",
+      "Austrian Symbolist painter.",
+      "Their initials are G. K."
     ]
   },
   {
@@ -6468,6 +7496,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Pintor y arquitecto renacentista italiano.",
       "Sus iniciales son R. S."
+    ],
+    "blurb_en": "Italian Renaissance painter and architect.",
+    "hints_en": [
+      "Known for: Art.",
+      "Italian Renaissance painter and architect.",
+      "Their initials are R. S."
     ]
   },
   {
@@ -6495,6 +7529,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Pintor español. Autor de \"Las Meninas\"",
       "Sus iniciales son D. V."
+    ],
+    "blurb_en": "Spanish painter.",
+    "hints_en": [
+      "Known for: Art.",
+      "Spanish painter. Author of \"Las Meninas\".",
+      "Their initials are D. V."
     ]
   },
   {
@@ -6522,6 +7562,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Pintor italiano, conocido por su técnica del claroscuro",
       "Sus iniciales son C."
+    ],
+    "blurb_en": "Italian painter.",
+    "hints_en": [
+      "Known for: Art.",
+      "Italian painter, known for his chiaroscuro technique.",
+      "Their initials are C."
     ]
   },
   {
@@ -6549,6 +7595,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Artista estadounidense. Conocido por su estilo de chorrear pintura (dripping).",
       "Sus iniciales son J. P."
+    ],
+    "blurb_en": "American artist.",
+    "hints_en": [
+      "Known for: Art.",
+      "American artist. Known for his paint-dripping style.",
+      "Their initials are J. P."
     ]
   },
   {
@@ -6576,6 +7628,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Pintor italiano del Renacimiento de la escuela veneciana.",
       "Sus iniciales son T."
+    ],
+    "blurb_en": "Italian Renaissance painter.",
+    "hints_en": [
+      "Known for: Art.",
+      "Italian Renaissance painter of the Venetian school.",
+      "Their initials are T."
     ]
   },
   {
@@ -6603,6 +7661,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Pintor francés posimpresionista.",
       "Sus iniciales son P. C."
+    ],
+    "blurb_en": "French Post-Impressionist painter.",
+    "hints_en": [
+      "Known for: Art.",
+      "French Post-Impressionist painter.",
+      "Their initials are P. C."
     ]
   },
   {
@@ -6630,6 +7694,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Pintor francés, conocido por su uso del color y por su empleo original y fluido del dibujo.",
       "Sus iniciales son H. M."
+    ],
+    "blurb_en": "French painter.",
+    "hints_en": [
+      "Known for: Art.",
+      "French painter, known for his use of color and his original, fluid draftsmanship.",
+      "Their initials are H. M."
     ]
   },
   {
@@ -6657,6 +7727,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Pintor noruego.",
       "Sus iniciales son E. M."
+    ],
+    "blurb_en": "Norwegian painter.",
+    "hints_en": [
+      "Known for: Art.",
+      "Norwegian painter.",
+      "Their initials are E. M."
     ]
   },
   {
@@ -6684,6 +7760,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Pintor neerlandés del siglo XVII.",
       "Sus iniciales son J. V."
+    ],
+    "blurb_en": "17th-century Dutch painter.",
+    "hints_en": [
+      "Known for: Art.",
+      "17th-century Dutch painter.",
+      "Their initials are J. V."
     ]
   },
   {
@@ -6711,6 +7793,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Pintor neerlandés.",
       "Sus iniciales son R."
+    ],
+    "blurb_en": "Dutch painter.",
+    "hints_en": [
+      "Known for: Art.",
+      "Dutch painter.",
+      "Their initials are R."
     ]
   },
   {
@@ -6739,6 +7827,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Explorador islandés.",
       "Sus iniciales son L. E."
+    ],
+    "blurb_en": "Icelandic explorer.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Icelandic explorer.",
+      "Their initials are L. E."
     ]
   },
   {
@@ -6767,6 +7861,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Navegante vikingo, conquistador de Groenlandia.",
       "Sus iniciales son E. E. R."
+    ],
+    "blurb_en": "Viking navigator, settler of Greenland.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Viking navigator, settler of Greenland.",
+      "Their initials are E. E. R."
     ]
   },
   {
@@ -6794,6 +7894,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Capitán de la Royal Navy y explorador del ártico inglés.",
       "Sus iniciales son J. F."
+    ],
+    "blurb_en": "Royal Navy captain and English Arctic explorer.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Royal Navy captain and English Arctic explorer.",
+      "Their initials are J. F."
     ]
   },
   {
@@ -6821,6 +7927,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Explorador estadounidense, discutidamente uno de los primeros humanos en llegar al Polo Norte.",
       "Sus iniciales son R. P."
+    ],
+    "blurb_en": "American explorer.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "American explorer, disputedly one of the first humans to reach the North Pole.",
+      "Their initials are R. P."
     ]
   },
   {
@@ -6848,6 +7960,12 @@
       "Se destacó en el ámbito de: alpinismo y montañismo",
       "Montañero polaco. 2da persona en alcanzar las 14 montañas de más de 8000 metros",
       "Sus iniciales son J. K."
+    ],
+    "blurb_en": "Polish mountaineer.",
+    "hints_en": [
+      "Known for: Mountaineering.",
+      "Polish mountaineer. 2nd person to climb all 14 mountains above 8,000 meters.",
+      "Their initials are J. K."
     ]
   },
   {
@@ -6875,6 +7993,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Oficial japonés.  comandante en jefe de la Flota Combinada de la Armada Imperial Japonesa durante la Segunda Guerra Mundial",
       "Sus iniciales son I. Y."
+    ],
+    "blurb_en": "Japanese officer.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Japanese officer. Commander-in-chief of the Combined Fleet of the Imperial Japanese Navy during World War II.",
+      "Their initials are I. Y."
     ]
   },
   {
@@ -6902,6 +8026,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Víctima del Holocausto, autora de un diario.",
       "Sus iniciales son A. F."
+    ],
+    "blurb_en": "Holocaust victim, author of a diary.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Holocaust victim, author of a diary.",
+      "Their initials are A. F."
     ]
   },
   {
@@ -6929,6 +8059,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Rey de España (1808, 1813-1833).",
       "Sus iniciales son F. VII. D. E."
+    ],
+    "blurb_en": "King of Spain (1808, 1813-1833).",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "King of Spain (1808, 1813-1833).",
+      "Their initials are F. VII. D. E."
     ]
   },
   {
@@ -6957,6 +8093,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Monarca hispánico y emperador del Sacro Imperio Romano Germánico.",
       "Sus iniciales son C. I. D. E."
+    ],
+    "blurb_en": "Spanish monarch and Holy Roman Emperor.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Spanish monarch and Holy Roman Emperor.",
+      "Their initials are C. I. D. E."
     ]
   },
   {
@@ -6984,6 +8126,12 @@
       "Se destacó en el ámbito de: Política.",
       "Emperador de Brasil (1822-1831) y rey de Portugal (1826).",
       "Sus iniciales son P. I. D. B."
+    ],
+    "blurb_en": "Emperor of Brazil (1822-1831) and King of Portugal (1826).",
+    "hints_en": [
+      "Known for: Politics.",
+      "Emperor of Brazil (1822-1831) and King of Portugal (1826).",
+      "Their initials are P. I. D. B."
     ]
   },
   {
@@ -7011,6 +8159,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Emperador de Brasil (1831-1889).",
       "Sus iniciales son P. I. D. B."
+    ],
+    "blurb_en": "Emperor of Brazil (1831-1889).",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Emperor of Brazil (1831-1889).",
+      "Their initials are P. I. D. B."
     ]
   },
   {
@@ -7038,6 +8192,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Rey de los francos desde 768 y emperador de Occidente desde 800 hasta su muerte.",
       "Sus iniciales son C."
+    ],
+    "blurb_en": "King of the Franks from 768 and Emperor of the West from 800 until his death.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "King of the Franks from 768 and Emperor of the West from 800 until his death.",
+      "Their initials are C."
     ]
   },
   {
@@ -7066,6 +8226,12 @@
       "Se destacó en el ámbito de: Militar, navegante",
       "Militar irlandés naturalizado argentino.",
       "Sus iniciales son G. B."
+    ],
+    "blurb_en": "Irish-born Argentine naval officer.",
+    "hints_en": [
+      "Known for: Military & Navigation.",
+      "Irish-born Argentine naval officer.",
+      "Their initials are G. B."
     ]
   },
   {
@@ -7093,6 +8259,12 @@
       "Se destacó en el ámbito de: navegante y militar",
       "Militar y corsario francés.",
       "Sus iniciales son H. B."
+    ],
+    "blurb_en": "French military officer and privateer.",
+    "hints_en": [
+      "Known for: Navigation & Military.",
+      "French military officer and privateer.",
+      "Their initials are H. B."
     ]
   },
   {
@@ -7120,6 +8292,12 @@
       "Se destacó en el ámbito de: Crimen",
       "Narcotraficante colombiano, líder del Cártel de Medellín.",
       "Sus iniciales son P. E."
+    ],
+    "blurb_en": "Colombian drug trafficker, leader of the Medellín Cartel.",
+    "hints_en": [
+      "Known for: Crime.",
+      "Colombian drug trafficker, leader of the Medellín Cartel.",
+      "Their initials are P. E."
     ]
   },
   {
@@ -7147,6 +8325,12 @@
       "Se destacó en el ámbito de: Crimen",
       "Gánster estadounidense.",
       "Sus iniciales son A. C."
+    ],
+    "blurb_en": "American gangster.",
+    "hints_en": [
+      "Known for: Crime.",
+      "American gangster.",
+      "Their initials are A. C."
     ]
   },
   {
@@ -7174,6 +8358,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Criminal estadounidense.",
       "Sus iniciales son J. D."
+    ],
+    "blurb_en": "American criminal.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "American criminal.",
+      "Their initials are J. D."
     ]
   },
   {
@@ -7201,6 +8391,12 @@
       "Se destacó en el ámbito de: Crimen",
       "Pistolero y forajido estadounidense.",
       "Sus iniciales son B. T. K."
+    ],
+    "blurb_en": "American gunfighter and outlaw.",
+    "hints_en": [
+      "Known for: Crime.",
+      "American gunfighter and outlaw.",
+      "Their initials are B. T. K."
     ]
   },
   {
@@ -7228,6 +8424,12 @@
       "Se destacó en el ámbito de: Crimen",
       "Criminal estadounidense. Lider de secta",
       "Sus iniciales son C. M."
+    ],
+    "blurb_en": "American criminal.",
+    "hints_en": [
+      "Known for: Crime.",
+      "American criminal. Cult leader.",
+      "Their initials are C. M."
     ]
   },
   {
@@ -7255,6 +8457,12 @@
       "Se destacó en el ámbito de: Crimen",
       "Asesino en serie estadounidense.",
       "Sus iniciales son T. B."
+    ],
+    "blurb_en": "American serial killer.",
+    "hints_en": [
+      "Known for: Crime.",
+      "American serial killer.",
+      "Their initials are T. B."
     ]
   },
   {
@@ -7282,6 +8490,12 @@
       "Se destacó en el ámbito de: Deporte, actuación y crimen.",
       "Jugador de fútbol americano y actor estadounidense.",
       "Sus iniciales son O. J. S."
+    ],
+    "blurb_en": "American football player and actor.",
+    "hints_en": [
+      "Known for: Sports, Acting & Crime.",
+      "American football player and actor.",
+      "Their initials are O. J. S."
     ]
   },
   {
@@ -7309,6 +8523,12 @@
       "Se destacó en el ámbito de: Música",
       "Compositor y cantante de tangos argentino.",
       "Sus iniciales son C. G."
+    ],
+    "blurb_en": "Argentine composer and singer.",
+    "hints_en": [
+      "Known for: Music.",
+      "Argentine tango composer and singer.",
+      "Their initials are C. G."
     ]
   },
   {
@@ -7336,6 +8556,12 @@
       "Se destacó en el ámbito de: Medicina.",
       "Cardiólogo argentino.",
       "Sus iniciales son R. F."
+    ],
+    "blurb_en": "Argentine cardiologist.",
+    "hints_en": [
+      "Known for: Medicine.",
+      "Argentine cardiologist.",
+      "Their initials are R. F."
     ]
   },
   {
@@ -7363,6 +8589,12 @@
       "Se destacó en el ámbito de: Música",
       "Bandoneonista y compositor argentino.",
       "Sus iniciales son A. P."
+    ],
+    "blurb_en": "Argentine bandoneon player and composer.",
+    "hints_en": [
+      "Known for: Music.",
+      "Argentine bandoneon player and composer.",
+      "Their initials are A. P."
     ]
   },
   {
@@ -7390,6 +8622,12 @@
       "Se destacó en el ámbito de: Música.",
       "Compositor, cantante, guitarrista y pianista brasileño de bossa nova.",
       "Sus iniciales son A. C. J."
+    ],
+    "blurb_en": "Brazilian bossa nova composer, singer, guitarist and pianist.",
+    "hints_en": [
+      "Known for: Music.",
+      "Brazilian bossa nova composer, singer, guitarist and pianist.",
+      "Their initials are A. C. J."
     ]
   },
   {
@@ -7417,6 +8655,12 @@
       "Se destacó en el ámbito de: aviación.",
       "Aviador e inventor brasileño (1873-1932).",
       "Sus iniciales son A. S. D."
+    ],
+    "blurb_en": "Brazilian aviator and inventor (1873-1932).",
+    "hints_en": [
+      "Known for: Aviation.",
+      "Brazilian aviator and inventor (1873-1932).",
+      "Their initials are A. S. D."
     ]
   },
   {
@@ -7444,6 +8688,12 @@
       "Se destacó en el ámbito de: Arte y arquitectura",
       "Arquitecto brasileño (1907-2012).",
       "Sus iniciales son O. N."
+    ],
+    "blurb_en": "Brazilian architect (1907-2012).",
+    "hints_en": [
+      "Known for: Art & Architecture.",
+      "Brazilian architect (1907-2012).",
+      "Their initials are O. N."
     ]
   },
   {
@@ -7471,6 +8721,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Cantante brasileña (1909–1955).",
       "Sus iniciales son C. M."
+    ],
+    "blurb_en": "Brazilian singer (1909–1955).",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "Brazilian singer (1909–1955).",
+      "Their initials are C. M."
     ]
   },
   {
@@ -7498,6 +8754,12 @@
       "Se destacó en el ámbito de: Deporte.",
       "Futbolista brasileño.",
       "Sus iniciales son G."
+    ],
+    "blurb_en": "Brazilian footballer.",
+    "hints_en": [
+      "Known for: Sports.",
+      "Brazilian footballer.",
+      "Their initials are G."
     ]
   },
   {
@@ -7525,6 +8787,12 @@
       "Se destacó en el ámbito de: educación.",
       "Educador y filósofo brasileño.",
       "Sus iniciales son P. F."
+    ],
+    "blurb_en": "Brazilian educator and philosopher.",
+    "hints_en": [
+      "Known for: Education.",
+      "Brazilian educator and philosopher.",
+      "Their initials are P. F."
     ]
   },
   {
@@ -7552,6 +8820,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Abogado y político mexicano; 26.º presidente de México.",
       "Sus iniciales son B. J."
+    ],
+    "blurb_en": "Mexican lawyer and politician; 26th president of Mexico.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Mexican lawyer and politician; 26th president of Mexico.",
+      "Their initials are B. J."
     ]
   },
   {
@@ -7579,6 +8853,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritora y monja novohispana.",
       "Sus iniciales son S. J. I. D. L. C."
+    ],
+    "blurb_en": "Writer and nun of New Spain.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Writer and nun of New Spain.",
+      "Their initials are S. J. I. D. L. C."
     ]
   },
   {
@@ -7606,6 +8886,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor, comediante, productor y guionista de cine mexicano.",
       "Sus iniciales son C."
+    ],
+    "blurb_en": "Mexican film actor, comedian, producer and screenwriter.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "Mexican film actor, comedian, producer and screenwriter.",
+      "Their initials are C."
     ]
   },
   {
@@ -7635,6 +8921,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor, comediante y director mexicano, creador de \"El Chavo\"",
       "Sus iniciales son C."
+    ],
+    "blurb_en": "Mexican actor, comedian and director.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "Mexican actor, comedian and director, creator of \"El Chavo\".",
+      "Their initials are C."
     ]
   },
   {
@@ -7662,6 +8954,12 @@
       "Se destacó en el ámbito de: Música.",
       "Música y cantautora chilena.",
       "Sus iniciales son V. P."
+    ],
+    "blurb_en": "Chilean musician and singer-songwriter.",
+    "hints_en": [
+      "Known for: Music.",
+      "Chilean musician and singer-songwriter.",
+      "Their initials are V. P."
     ]
   },
   {
@@ -7689,6 +8987,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor chileno.",
       "Sus iniciales son R. B."
+    ],
+    "blurb_en": "Chilean writer.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Chilean writer.",
+      "Their initials are R. B."
     ]
   },
   {
@@ -7716,6 +9020,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Militar, marino y abogado chileno.",
       "Sus iniciales son A. P."
+    ],
+    "blurb_en": "Chilean military officer, sailor and lawyer.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Chilean military officer, sailor and lawyer.",
+      "Their initials are A. P."
     ]
   },
   {
@@ -7743,6 +9053,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Poeta peruano.",
       "Sus iniciales son C. V."
+    ],
+    "blurb_en": "Peruvian poet.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Peruvian poet.",
+      "Their initials are C. V."
     ]
   },
   {
@@ -7770,6 +9086,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Líder mestizo de la revolución en contra de la corona española en el Perú.",
       "Sus iniciales son T. A."
+    ],
+    "blurb_en": "Mestizo leader of the revolution against the Spanish crown in Peru.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Mestizo leader of the revolution against the Spanish crown in Peru.",
+      "Their initials are T. A."
     ]
   },
   {
@@ -7797,6 +9119,12 @@
       "Se destacó en el ámbito de: Rap",
       "Rapero estadounidense.",
       "Sus iniciales son T. S."
+    ],
+    "blurb_en": "American rapper.",
+    "hints_en": [
+      "Known for: Rap.",
+      "American rapper.",
+      "Their initials are T. S."
     ]
   },
   {
@@ -7824,6 +9152,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Poeta y periodista nicaragüense.",
       "Sus iniciales son R. D."
+    ],
+    "blurb_en": "Nicaraguan poet and journalist.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Nicaraguan poet and journalist.",
+      "Their initials are R. D."
     ]
   },
   {
@@ -7851,6 +9185,12 @@
       "Se destacó en el ámbito de: Política y Religión",
       "Arzobispo de San Salvador entre 1977 y 1980.",
       "Sus iniciales son Ó. A. R."
+    ],
+    "blurb_en": "Archbishop of San Salvador from 1977 to 1980.",
+    "hints_en": [
+      "Known for: Politics & Religion.",
+      "Archbishop of San Salvador from 1977 to 1980.",
+      "Their initials are Ó. A. R."
     ]
   },
   {
@@ -7878,6 +9218,12 @@
       "Se destacó en el ámbito de: Música.",
       "Poeta, novelista y cantautor canadiense.",
       "Sus iniciales son L. C."
+    ],
+    "blurb_en": "Canadian poet, novelist and singer-songwriter.",
+    "hints_en": [
+      "Known for: Music.",
+      "Canadian poet, novelist and singer-songwriter.",
+      "Their initials are L. C."
     ]
   },
   {
@@ -7905,6 +9251,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "1.ᵉʳ primer ministro de Canadá.",
       "Sus iniciales son J. A. M."
+    ],
+    "blurb_en": "1st Prime Minister of Canada.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "1st Prime Minister of Canada.",
+      "Their initials are J. A. M."
     ]
   },
   {
@@ -7932,6 +9284,12 @@
       "Se destacó en el ámbito de: Deporte.",
       "Jugador canadiense de hockey sobre hielo.",
       "Sus iniciales son G. H."
+    ],
+    "blurb_en": "Canadian ice hockey player.",
+    "hints_en": [
+      "Known for: Sports.",
+      "Canadian ice hockey player.",
+      "Their initials are G. H."
     ]
   },
   {
@@ -7959,6 +9317,12 @@
       "Se destacó en el ámbito de: Ciencia.",
       "Médico e investigador canadiense.",
       "Sus iniciales son F. G. B."
+    ],
+    "blurb_en": "Canadian physician and researcher.",
+    "hints_en": [
+      "Known for: Science.",
+      "Canadian physician and researcher.",
+      "Their initials are F. G. B."
     ]
   },
   {
@@ -7986,6 +9350,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Rey de Hawái (1795-1819).",
       "Sus iniciales son K. I. D. H."
+    ],
+    "blurb_en": "King of Hawaii (1795-1819).",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "King of Hawaii (1795-1819).",
+      "Their initials are K. I. D. H."
     ]
   },
   {
@@ -8013,6 +9383,12 @@
       "Se destacó en el ámbito de: diseñador de automóviles",
       "Ingeniero y empresario italiano.",
       "Sus iniciales son E. F."
+    ],
+    "blurb_en": "Italian engineer and entrepreneur.",
+    "hints_en": [
+      "Known for: Car design.",
+      "Italian engineer and entrepreneur.",
+      "Their initials are E. F."
     ]
   },
   {
@@ -8040,6 +9416,12 @@
       "Se destacó en el ámbito de: ópera",
       "Tenor italiano (1935-2007).",
       "Sus iniciales son L. P."
+    ],
+    "blurb_en": "Italian tenor (1935-2007).",
+    "hints_en": [
+      "Known for: Opera.",
+      "Italian tenor (1935-2007).",
+      "Their initials are L. P."
     ]
   },
   {
@@ -8067,6 +9449,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Pintor español.",
       "Sus iniciales son F. D. G."
+    ],
+    "blurb_en": "Spanish painter.",
+    "hints_en": [
+      "Known for: Art.",
+      "Spanish painter.",
+      "Their initials are F. D. G."
     ]
   },
   {
@@ -8094,6 +9482,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Reina de Castilla y reina consorte de Sicilia y Aragón.",
       "Sus iniciales son I. I. D. C."
+    ],
+    "blurb_en": "Queen of Castile and queen consort of Sicily and Aragon.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Queen of Castile and queen consort of Sicily and Aragon.",
+      "Their initials are I. I. D. C."
     ]
   },
   {
@@ -8121,6 +9515,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Poeta, dramaturgo y novelista romántico francés (1802–1885).",
       "Sus iniciales son V. H."
+    ],
+    "blurb_en": "French Romantic poet, playwright and novelist (1802–1885).",
+    "hints_en": [
+      "Known for: Literature.",
+      "French Romantic poet, playwright and novelist (1802–1885).",
+      "Their initials are V. H."
     ]
   },
   {
@@ -8148,6 +9548,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor francés.",
       "Sus iniciales son A. D."
+    ],
+    "blurb_en": "French writer.",
+    "hints_en": [
+      "Known for: Literature.",
+      "French writer.",
+      "Their initials are A. D."
     ]
   },
   {
@@ -8175,6 +9581,12 @@
       "Se destacó en el ámbito de: filosofía.",
       "Filósofo, matemático y físico francés. \"Pienso, luego existo\"",
       "Sus iniciales son R. D."
+    ],
+    "blurb_en": "French philosopher, mathematician and physicist.",
+    "hints_en": [
+      "Known for: Philosophy.",
+      "French philosopher, mathematician and physicist. \"I think, therefore I am.\"",
+      "Their initials are R. D."
     ]
   },
   {
@@ -8202,6 +9614,12 @@
       "Se destacó en el ámbito de: música",
       "Cantante francesa.",
       "Sus iniciales son É. P."
+    ],
+    "blurb_en": "French singer.",
+    "hints_en": [
+      "Known for: Music.",
+      "French singer.",
+      "Their initials are É. P."
     ]
   },
   {
@@ -8229,6 +9647,12 @@
       "Se destacó en el ámbito de: Filosofía y Religión.",
       "Escritor, historiador, filósofo, poeta, dramaturgo y abogado francés.",
       "Sus iniciales son V."
+    ],
+    "blurb_en": "French writer, historian, philosopher, poet, playwright and lawyer.",
+    "hints_en": [
+      "Known for: Philosophy & Religion.",
+      "French writer, historian, philosopher, poet, playwright and lawyer.",
+      "Their initials are V."
     ]
   },
   {
@@ -8256,6 +9680,12 @@
       "Se destacó en el ámbito de: Ciencia.",
       "Químico y microbiólogo francés.",
       "Sus iniciales son L. P."
+    ],
+    "blurb_en": "French chemist and microbiologist.",
+    "hints_en": [
+      "Known for: Science.",
+      "French chemist and microbiologist.",
+      "Their initials are L. P."
     ]
   },
   {
@@ -8283,6 +9713,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Navegante y explorador portugués.",
       "Sus iniciales son V. D. G."
+    ],
+    "blurb_en": "Portuguese navigator and explorer.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Portuguese navigator and explorer.",
+      "Their initials are V. D. G."
     ]
   },
   {
@@ -8310,6 +9746,12 @@
       "Se destacó en el ámbito de: Ciencia.",
       "Físico y matemático alemán.",
       "Sus iniciales son M. P."
+    ],
+    "blurb_en": "German physicist and mathematician.",
+    "hints_en": [
+      "Known for: Science.",
+      "German physicist and mathematician.",
+      "Their initials are M. P."
     ]
   },
   {
@@ -8337,6 +9779,12 @@
       "Se destacó en el ámbito de: Música.",
       "Compositor austriaco.",
       "Sus iniciales son F. S."
+    ],
+    "blurb_en": "Austrian composer.",
+    "hints_en": [
+      "Known for: Music.",
+      "Austrian composer.",
+      "Their initials are F. S."
     ]
   },
   {
@@ -8364,6 +9812,12 @@
       "Se destacó en el ámbito de: Ciencia.",
       "Físico y filósofo austríaco.",
       "Sus iniciales son E. S."
+    ],
+    "blurb_en": "Austrian physicist and philosopher.",
+    "hints_en": [
+      "Known for: Science.",
+      "Austrian physicist and philosopher.",
+      "Their initials are E. S."
     ]
   },
   {
@@ -8391,6 +9845,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor austríaco (1881-1942).",
       "Sus iniciales son S. Z."
+    ],
+    "blurb_en": "Austrian writer (1881-1942).",
+    "hints_en": [
+      "Known for: Literature.",
+      "Austrian writer (1881-1942).",
+      "Their initials are S. Z."
     ]
   },
   {
@@ -8418,6 +9878,12 @@
       "Se destacó en el ámbito de: Ciencia.",
       "Fraile y naturalista austríaco.",
       "Sus iniciales son G. M."
+    ],
+    "blurb_en": "Austrian friar and naturalist.",
+    "hints_en": [
+      "Known for: Science.",
+      "Austrian friar and naturalist.",
+      "Their initials are G. M."
     ]
   },
   {
@@ -8445,6 +9911,12 @@
       "Se destacó en el ámbito de: Literatura",
       "Historietista belga, creador de Tintin",
       "Sus iniciales son H."
+    ],
+    "blurb_en": "Belgian comic artist.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Belgian comic artist, creator of Tintin.",
+      "Their initials are H."
     ]
   },
   {
@@ -8472,6 +9944,12 @@
       "Se destacó en el ámbito de: Arte.",
       "Pintor flamenco (1577-1640).",
       "Sus iniciales son P. P. R."
+    ],
+    "blurb_en": "Flemish painter (1577-1640).",
+    "hints_en": [
+      "Known for: Art.",
+      "Flemish painter (1577-1640).",
+      "Their initials are P. P. R."
     ]
   },
   {
@@ -8499,6 +9977,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Estadista holandés, Príncipe de Orange.",
       "Sus iniciales son G. D. O."
+    ],
+    "blurb_en": "Dutch statesman, Prince of Orange.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Dutch statesman, Prince of Orange.",
+      "Their initials are G. D. O."
     ]
   },
   {
@@ -8526,6 +10010,12 @@
       "Se destacó en el ámbito de: Música",
       "Compositor ruso.",
       "Sus iniciales son P. I. C."
+    ],
+    "blurb_en": "Russian composer.",
+    "hints_en": [
+      "Known for: Music.",
+      "Russian composer.",
+      "Their initials are P. I. C."
     ]
   },
   {
@@ -8553,6 +10043,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Emperador de Rusia (1721-1725).",
       "Sus iniciales son P. I. D. R."
+    ],
+    "blurb_en": "Emperor of Russia (1721-1725).",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Emperor of Russia (1721-1725).",
+      "Their initials are P. I. D. R."
     ]
   },
   {
@@ -8580,6 +10076,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Emperatriz de Rusia (1762-1796).",
       "Sus iniciales son C. I. D. R."
+    ],
+    "blurb_en": "Empress of Russia (1762-1796).",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Empress of Russia (1762-1796).",
+      "Their initials are C. I. D. R."
     ]
   },
   {
@@ -8607,6 +10109,12 @@
       "Se destacó en el ámbito de: Ciencia.",
       "Fisiólogo ruso.",
       "Sus iniciales son I. P."
+    ],
+    "blurb_en": "Russian physiologist.",
+    "hints_en": [
+      "Known for: Science.",
+      "Russian physiologist.",
+      "Their initials are I. P."
     ]
   },
   {
@@ -8634,6 +10142,12 @@
       "Se destacó en el ámbito de: Ciencia.",
       "Escritor ruso.",
       "Sus iniciales son A. C."
+    ],
+    "blurb_en": "Russian writer.",
+    "hints_en": [
+      "Known for: Science.",
+      "Russian writer.",
+      "Their initials are A. C."
     ]
   },
   {
@@ -8659,13 +10173,13 @@
       "place_en": "Canterbury, UK"
     },
     "blurb": "Escritor, periodista y oficial de inteligencia naval inglés.",
+    "blurb_en": "English writer, journalist and naval intelligence officer.",
+    "name_en": "Ian Fleming",
     "hints": [
       "Known for: Literature.",
       "British author (1908–1964). Creator of James Bond",
       "Their initials are I. F."
     ],
-    "name_en": "Ian Fleming",
-    "blurb_en": "English writer, journalist and naval intelligence officer.",
     "hints_en": [
       "Known for: Literature.",
       "British author (1908–1964). Creator of James Bond",
@@ -8697,6 +10211,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Economista ghanés, séptimo Secretario General de las Naciones Unidas.",
       "Sus iniciales son K. A."
+    ],
+    "blurb_en": "Ghanaian economist, seventh Secretary-General of the United Nations.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Ghanaian economist, seventh Secretary-General of the United Nations.",
+      "Their initials are K. A."
     ]
   },
   {
@@ -8724,6 +10244,12 @@
       "Se destacó en el ámbito de: arte y literatura",
       "Mangaka y animador japonés (1928-1989).",
       "Sus iniciales son O. T."
+    ],
+    "blurb_en": "Japanese manga artist and animator (1928-1989).",
+    "hints_en": [
+      "Known for: Art & Literature.",
+      "Japanese manga artist and animator (1928-1989).",
+      "Their initials are O. T."
     ]
   },
   {
@@ -8751,6 +10277,12 @@
       "Se destacó en el ámbito de: política.",
       "Político chino, máximo líder de la República Popular China desde 1978 hasta su retiro en 1989.",
       "Sus iniciales son D. X."
+    ],
+    "blurb_en": "Chinese politician, paramount leader of the People's Republic of China from 1978 until his retirement in 1989.",
+    "hints_en": [
+      "Known for: Politics.",
+      "Chinese politician, paramount leader of the People's Republic of China from 1978 until his retirement in 1989.",
+      "Their initials are D. X."
     ]
   },
   {
@@ -8778,6 +10310,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Marino y explorador chino (1371-1433).",
       "Sus iniciales son Z. H."
+    ],
+    "blurb_en": "Chinese mariner and explorer (1371-1433).",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Chinese mariner and explorer (1371-1433).",
+      "Their initials are Z. H."
     ]
   },
   {
@@ -8805,6 +10343,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Australian geologist and explorer of the Antarctic (1882-1958).",
       "Sus iniciales son D. M."
+    ],
+    "blurb_en": "Australian geologist and explorer of the Antarctic (1882-1958).",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Australian geologist and explorer of the Antarctic (1882-1958).",
+      "Their initials are D. M."
     ]
   },
   {
@@ -8832,6 +10376,12 @@
       "Se destacó en el ámbito de: política.",
       "1.er Presidente de la República de Turquía.",
       "Sus iniciales son M. K. A."
+    ],
+    "blurb_en": "1st President of the Republic of Turkey.",
+    "hints_en": [
+      "Known for: Politics.",
+      "1st President of the Republic of Turkey.",
+      "Their initials are M. K. A."
     ]
   },
   {
@@ -8859,6 +10409,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Ayatolá y 1.º líder supremo de Irán entre 1979 y 1989.",
       "Sus iniciales son R. J."
+    ],
+    "blurb_en": "Ayatollah and 1st Supreme Leader of Iran from 1979 to 1989.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Ayatollah and 1st Supreme Leader of Iran from 1979 to 1989.",
+      "Their initials are R. J."
     ]
   },
   {
@@ -8886,6 +10442,12 @@
       "Se destacó en el ámbito de: matemática.",
       "Astrónomo, matemático y físico alemán.",
       "Sus iniciales son C. F. G."
+    ],
+    "blurb_en": "German astronomer, mathematician and physicist.",
+    "hints_en": [
+      "Known for: Mathematics.",
+      "German astronomer, mathematician and physicist.",
+      "Their initials are C. F. G."
     ]
   },
   {
@@ -8913,6 +10475,12 @@
       "Se destacó en el ámbito de: Ciencia.",
       "Matemático suizo.",
       "Sus iniciales son L. E."
+    ],
+    "blurb_en": "Swiss mathematician.",
+    "hints_en": [
+      "Known for: Science.",
+      "Swiss mathematician.",
+      "Their initials are L. E."
     ]
   },
   {
@@ -8940,6 +10508,12 @@
       "Se destacó en el ámbito de: Ciencia.",
       "Sabio griego del siglo III a.C..",
       "Sus iniciales son A."
+    ],
+    "blurb_en": "Greek scholar of the 3rd century BC.",
+    "hints_en": [
+      "Known for: Science.",
+      "Greek scholar of the 3rd century BC.",
+      "Their initials are A."
     ]
   },
   {
@@ -8967,6 +10541,12 @@
       "Se destacó en el ámbito de: Ciencia",
       "Matemático indio.",
       "Sus iniciales son S. A. R."
+    ],
+    "blurb_en": "Indian mathematician.",
+    "hints_en": [
+      "Known for: Science.",
+      "Indian mathematician.",
+      "Their initials are S. A. R."
     ]
   },
   {
@@ -8994,6 +10574,12 @@
       "Se destacó en el ámbito de: ciencia y medicina",
       "Médico, filósofo y científico persa.",
       "Sus iniciales son A."
+    ],
+    "blurb_en": "Persian physician, philosopher and scientist.",
+    "hints_en": [
+      "Known for: Science & Medicine.",
+      "Persian physician, philosopher and scientist.",
+      "Their initials are A."
     ]
   },
   {
@@ -9021,6 +10607,12 @@
       "Se destacó en el ámbito de: política",
       "Poeta, político comunista y presidente (1945–1969) de la República Democrática de Vietnam.",
       "Sus iniciales son H. C. M."
+    ],
+    "blurb_en": "Poet, communist politician and president (1945–1969) of the Democratic Republic of Vietnam.",
+    "hints_en": [
+      "Known for: Politics.",
+      "Poet, communist politician and president (1945–1969) of the Democratic Republic of Vietnam.",
+      "Their initials are H. C. M."
     ]
   },
   {
@@ -9048,6 +10640,12 @@
       "Se destacó en el ámbito de: Música.",
       "Músico jamaiquino.",
       "Sus iniciales son B. M."
+    ],
+    "blurb_en": "Jamaican musician.",
+    "hints_en": [
+      "Known for: Music.",
+      "Jamaican musician.",
+      "Their initials are B. M."
     ]
   },
   {
@@ -9075,6 +10673,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor, pensador y político cubano.",
       "Sus iniciales son J. M."
+    ],
+    "blurb_en": "Cuban writer, thinker and politician.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Cuban writer, thinker and politician.",
+      "Their initials are J. M."
     ]
   },
   {
@@ -9102,6 +10706,12 @@
       "Se destacó en el ámbito de: deportista",
       "Beisbolista puertorriqueño.",
       "Sus iniciales son R. C."
+    ],
+    "blurb_en": "Puerto Rican baseball player.",
+    "hints_en": [
+      "Known for: Athlete.",
+      "Puerto Rican baseball player.",
+      "Their initials are R. C."
     ]
   },
   {
@@ -9129,6 +10739,12 @@
       "Se destacó en el ámbito de: música",
       "Cantante cubana (1925-2003).",
       "Sus iniciales son C. C."
+    ],
+    "blurb_en": "Cuban singer (1925-2003).",
+    "hints_en": [
+      "Known for: Music.",
+      "Cuban singer (1925-2003).",
+      "Their initials are C. C."
     ]
   },
   {
@@ -9156,6 +10772,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Explorador danés.",
       "Sus iniciales son V. B."
+    ],
+    "blurb_en": "Danish explorer.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Danish explorer.",
+      "Their initials are V. B."
     ]
   },
   {
@@ -9183,6 +10805,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Swedish geologist and polar researche (1869–1928).",
       "Sus iniciales son O. N."
+    ],
+    "blurb_en": "Swedish geologist and polar researcher (1869–1928).",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Swedish geologist and polar researcher (1869–1928).",
+      "Their initials are O. N."
     ]
   },
   {
@@ -9211,6 +10839,12 @@
       "Se destacó en el ámbito de: Exploración y Geografía.",
       "Explorador y naturalista argentino.",
       "Sus iniciales son F. P. M."
+    ],
+    "blurb_en": "Argentine explorer and naturalist.",
+    "hints_en": [
+      "Known for: Exploration & Geography.",
+      "Argentine explorer and naturalist.",
+      "Their initials are F. P. M."
     ]
   },
   {
@@ -9238,6 +10872,12 @@
       "Se destacó en el ámbito de: Cocina y TV",
       "Chef estadounidense.",
       "Sus iniciales son A. B."
+    ],
+    "blurb_en": "American chef.",
+    "hints_en": [
+      "Known for: Cooking & TV.",
+      "American chef.",
+      "Their initials are A. B."
     ]
   },
   {
@@ -9265,6 +10905,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor y director de cine estadounidense.",
       "Sus iniciales son R. D."
+    ],
+    "blurb_en": "American film actor and director.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American film actor and director.",
+      "Their initials are R. D."
     ]
   },
   {
@@ -9292,6 +10938,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor y comediante estadounidense.",
       "Sus iniciales son R. W."
+    ],
+    "blurb_en": "American actor and comedian.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American actor and comedian.",
+      "Their initials are R. W."
     ]
   },
   {
@@ -9319,6 +10971,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor, director y productor de cine británico.",
       "Sus iniciales son B. H."
+    ],
+    "blurb_en": "British film actor, director and producer.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "British film actor, director and producer.",
+      "Their initials are B. H."
     ]
   },
   {
@@ -9346,6 +11004,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor y director de cine estadounidense.",
       "Sus iniciales son P. N."
+    ],
+    "blurb_en": "American film actor and director.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American film actor and director.",
+      "Their initials are P. N."
     ]
   },
   {
@@ -9373,6 +11037,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor estadounidense.",
       "Sus iniciales son J. L."
+    ],
+    "blurb_en": "American actor.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American actor.",
+      "Their initials are J. L."
     ]
   },
   {
@@ -9400,6 +11070,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor italiano.",
       "Sus iniciales son M. M."
+    ],
+    "blurb_en": "Italian actor.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "Italian actor.",
+      "Their initials are M. M."
     ]
   },
   {
@@ -9427,6 +11103,12 @@
       "Se destacó en el ámbito de: Música, Cine y Espectáculo.",
       "Cantante y actor estadounidense.",
       "Sus iniciales son F. S."
+    ],
+    "blurb_en": "American singer and actor.",
+    "hints_en": [
+      "Known for: Music, Film & Entertainment.",
+      "American singer and actor.",
+      "Their initials are F. S."
     ]
   },
   {
@@ -9454,6 +11136,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actriz estadounidense.",
       "Sus iniciales son K. H."
+    ],
+    "blurb_en": "American actress.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American actress.",
+      "Their initials are K. H."
     ]
   },
   {
@@ -9481,6 +11169,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actriz británica.",
       "Sus iniciales son A. H."
+    ],
+    "blurb_en": "British actress.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "British actress.",
+      "Their initials are A. H."
     ]
   },
   {
@@ -9508,6 +11202,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Cineasta estadounidense (1906-1987).",
       "Sus iniciales son J. H."
+    ],
+    "blurb_en": "American filmmaker (1906-1987).",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American filmmaker (1906-1987).",
+      "Their initials are J. H."
     ]
   },
   {
@@ -9535,6 +11235,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Cineasta italoestadounidense (1897-1991).",
       "Sus iniciales son F. C."
+    ],
+    "blurb_en": "Italian-American filmmaker (1897-1991).",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "Italian-American filmmaker (1897-1991).",
+      "Their initials are F. C."
     ]
   },
   {
@@ -9562,6 +11268,12 @@
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Director de cine, guionista, productor y fotógrafo estadounidense.",
       "Sus iniciales son S. K."
+    ],
+    "blurb_en": "American film director, screenwriter, producer and photographer.",
+    "hints_en": [
+      "Known for: Film & Entertainment.",
+      "American film director, screenwriter, producer and photographer.",
+      "Their initials are S. K."
     ]
   },
   {
@@ -9589,6 +11301,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Militar y político rioplatense.",
       "Sus iniciales son J. G. A."
+    ],
+    "blurb_en": "Military officer and politician of the Río de la Plata region.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Military officer and politician of the Río de la Plata region.",
+      "Their initials are J. G. A."
     ]
   },
   {
@@ -9616,6 +11334,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor, poeta, dramaturgo y periodista uruguayo.",
       "Sus iniciales son M. B."
+    ],
+    "blurb_en": "Uruguayan writer, poet, playwright and journalist.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Uruguayan writer, poet, playwright and journalist.",
+      "Their initials are M. B."
     ]
   },
   {
@@ -9643,6 +11367,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor y periodista uruguayo.",
       "Sus iniciales son E. G."
+    ],
+    "blurb_en": "Uruguayan writer and journalist.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Uruguayan writer and journalist.",
+      "Their initials are E. G."
     ]
   },
   {
@@ -9670,6 +11400,12 @@
       "Se destacó en el ámbito de: Deporte.",
       "Futbolista uruguayo.",
       "Sus iniciales son O. V."
+    ],
+    "blurb_en": "Uruguayan footballer.",
+    "hints_en": [
+      "Known for: Sports.",
+      "Uruguayan footballer.",
+      "Their initials are O. V."
     ]
   },
   {
@@ -9697,6 +11433,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Cuentista, poeta y dramaturgo uruguayo.",
       "Sus iniciales son H. Q."
+    ],
+    "blurb_en": "Uruguayan short-story writer, poet and playwright.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Uruguayan short-story writer, poet and playwright.",
+      "Their initials are H. Q."
     ]
   },
   {
@@ -9724,6 +11466,12 @@
       "Se destacó en el ámbito de: Literatura.",
       "Escritor paraguayo.",
       "Sus iniciales son A. R. B."
+    ],
+    "blurb_en": "Paraguayan writer.",
+    "hints_en": [
+      "Known for: Literature.",
+      "Paraguayan writer.",
+      "Their initials are A. R. B."
     ]
   },
   {
@@ -9749,13 +11497,13 @@
       "place_en": "Rabat, Morocco"
     },
     "blurb": "Presidente de la República del Zaire entre 1971 y 1997.",
+    "blurb_en": "President of the Republic of Zaire between 1971 and 1997.",
+    "name_en": "Mobutu",
     "hints": [
       "Se destacó en el ámbito de: Politica.",
       "Presidente de la República del Zaire entre 1971 y 1997.",
       "Sus iniciales son M. S. S."
     ],
-    "name_en": "Mobutu",
-    "blurb_en": "President of the Republic of Zaire between 1971 and 1997.",
     "hints_en": [
       "He excelled in the field of: Politics.",
       "President of the Republic of Zaire between 1971 and 1997.",
@@ -9787,6 +11535,12 @@
       "Se destacó en el ámbito de: Política / Historia.",
       "Político congoleño.",
       "Sus iniciales son M. N."
+    ],
+    "blurb_en": "Congolese politician.",
+    "hints_en": [
+      "Known for: Politics / History.",
+      "Congolese politician.",
+      "Their initials are M. N."
     ]
   },
   {
@@ -9812,13 +11566,13 @@
       "place_en": "Salzburg, Austria"
     },
     "blurb": "Futbolista y entrenador alemán.",
+    "blurb_en": "German footballer and coach.",
+    "name_en": "Franz Beckenbauer",
     "hints": [
       "Known for: Sports.",
       "German sports official and association football player (1945–2024).",
       "Their initials are F. B."
     ],
-    "name_en": "Franz Beckenbauer",
-    "blurb_en": "German footballer and coach.",
     "hints_en": [
       "Known for: Sports.",
       "German sports official and association football player (1945–2024).",
@@ -9850,13 +11604,13 @@
       "place_en": "Vaux-sur-Somme, France"
     },
     "blurb": "Piloto alemán de combate.",
+    "blurb_en": "German fighter pilot.",
+    "name_en": "Manfred von Richthofen",
     "hints": [
       "Known for: Air Pilot, Exploration & Geography.",
       "German fighter pilot (1892-1918).",
       "Their initials are M. V. R."
     ],
-    "name_en": "Manfred von Richthofen",
-    "blurb_en": "German fighter pilot.",
     "hints_en": [
       "Known for: Air Pilot, Exploration & Geography.",
       "German fighter pilot (1892-1918).",
@@ -9886,13 +11640,13 @@
       "place_en": "ÎLE-DE-FRANCE"
     },
     "blurb": "Escritor y aviador francés.",
+    "blurb_en": "French writer and aviator.",
+    "name_en": "Antoine de Saint – Exupéry",
     "hints": [
       "Known for: Literature, pilot",
       "French writer and aviator (1900–1944).",
       "Their initials are A. D. S."
     ],
-    "name_en": "Antoine de Saint – Exupéry",
-    "blurb_en": "French writer and aviator.",
     "hints_en": [
       "Known for: Literature, pilot",
       "French writer and aviator (1900–1944).",
@@ -9922,13 +11676,13 @@
       "place_en": "Lyford Cay, Bahamas"
     },
     "blurb": "Actor escocés.",
+    "blurb_en": "Scottish actor.",
+    "name_en": "Sean Connery",
     "hints": [
       "Known for: Film & Entertainment.",
       "Scottish actor (1930–2020).",
       "Their initials are S. C."
     ],
-    "name_en": "Sean Connery",
-    "blurb_en": "Scottish actor.",
     "hints_en": [
       "Known for: Film & Entertainment.",
       "Scottish actor (1930–2020).",
@@ -9958,13 +11712,13 @@
       "place_en": "Lisbon, Portugal"
     },
     "blurb": "Futbolista portugués.",
+    "blurb_en": "Portuguese footballer.",
+    "name_en": "Eusébio",
     "hints": [
       "Known for: Sports.",
       "Portuguese footballer (1942–2014).",
       "Their initials are E."
     ],
-    "name_en": "Eusébio",
-    "blurb_en": "Portuguese footballer.",
     "hints_en": [
       "Known for: Sports.",
       "Portuguese footballer (1942–2014).",
@@ -9994,13 +11748,13 @@
       "place_en": "Macclesfield District General Hospital, United Kingdom"
     },
     "blurb": "Futbolista británico.",
+    "blurb_en": "British footballer.",
+    "name_en": "Bobby Charlton",
     "hints": [
       "Known for: Sports.",
       "English association football player and manager (1937–2023).",
       "Their initials are B. C."
     ],
-    "name_en": "Bobby Charlton",
-    "blurb_en": "British footballer.",
     "hints_en": [
       "Known for: Sports.",
       "English association football player and manager (1937–2023).",
@@ -10030,19 +11784,19 @@
       "place_en": "Port Angeles, United States"
     },
     "blurb": "Escritor, poeta, guionista, novelista, prosista, profesor, escritor de cuentos (1938-1988).",
+    "blurb_en": "Writer, poet, screenwriter, novelist, prose writer, teacher, short story writer (1938-1988).",
+    "name_en": "Raymond Carver. ",
     "hints": [
       "Se destacó en el ámbito de: Literatura.",
       "Escritor, poeta, guionista, novelista, prosista, profesor, escritor de cuentos (1938-1988).",
       "Sus iniciales son R. C."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "Raymond Carver. ",
-    "blurb_en": "Writer, poet, screenwriter, novelist, prose writer, teacher, short story writer (1938-1988).",
     "hints_en": [
       "He excelled in the field of: Literature.",
       "Writer, poet, screenwriter, novelist, prose writer, teacher, short story writer (1938-1988).",
       "His initials are R. C."
-    ]
+    ],
+    "useAutoDifficulty": false
   },
   {
     "id": "violeta-parra-8gcy",
@@ -10067,19 +11821,19 @@
       "place_en": "La Reina, Chile"
     },
     "blurb": "Música y cantautora chilena.",
+    "blurb_en": "Chilean music and singer-songwriter.",
+    "name_en": "VIOLET PARRA",
     "hints": [
       "Se destacó en el ámbito de: Música.",
       "Música y cantautora chilena.",
       "Sus iniciales son V. P."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "VIOLET PARRA",
-    "blurb_en": "Chilean music and singer-songwriter.",
     "hints_en": [
       "He excelled in the field of: Music.",
       "Chilean music and singer-songwriter.",
       "His initials are V. P."
-    ]
+    ],
+    "useAutoDifficulty": false
   },
   {
     "id": "victor-jara-9iyx",
@@ -10104,19 +11858,19 @@
       "place_en": "Santiago de Chile, Chile"
     },
     "blurb": "Músico y activista político chileno.",
+    "blurb_en": "Chilean musician and political activist.",
+    "name_en": "Victor Jara",
     "hints": [
       "Se destacó en el ámbito de: Música y Política",
       "Músico y activista político chileno.",
       "Sus iniciales son V. J."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "Victor Jara",
-    "blurb_en": "Chilean musician and political activist.",
     "hints_en": [
       "He excelled in the field of: Music and Politics",
       "Chilean musician and political activist.",
       "His initials are V. J."
-    ]
+    ],
+    "useAutoDifficulty": false
   },
   {
     "id": "guy-williams-gng1",
@@ -10141,19 +11895,19 @@
       "place_en": "Buenos Aires, Argentina"
     },
     "blurb": "Actor estadounidense.",
+    "blurb_en": "American actor.",
+    "name_en": "Guy Williams",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor estadounidense. El Zorro.",
       "Sus iniciales son G. W."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "Guy Williams",
-    "blurb_en": "American actor.",
     "hints_en": [
       "He excelled in the field of: Cinema and Entertainment.",
       "American actor. Zorro.",
       "His initials are G.W."
-    ]
+    ],
+    "useAutoDifficulty": false
   },
   {
     "id": "chespirito-hy51",
@@ -10180,19 +11934,19 @@
       "place_en": "Cancun, Mexico"
     },
     "blurb": "Actor, comediante y director mexicano.",
+    "blurb_en": "Mexican actor, comedian and director.",
+    "name_en": "Chespirito",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor, comediante y director mexicano.",
       "Sus iniciales son C."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "Chespirito",
-    "blurb_en": "Mexican actor, comedian and director.",
     "hints_en": [
       "He excelled in the field of: Cinema and Entertainment.",
       "Mexican actor, comedian and director.",
       "His initials are C."
-    ]
+    ],
+    "useAutoDifficulty": false
   },
   {
     "id": "chadwick-boseman-je9e",
@@ -10217,19 +11971,19 @@
       "place_en": "Los Angeles, USA"
     },
     "blurb": "Actor estadounidense.",
+    "blurb_en": "American actor.",
+    "name_en": "Chadwick Boseman",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor estadounidense. Black Panther",
       "Sus iniciales son C. B."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "Chadwick Boseman",
-    "blurb_en": "American actor.",
     "hints_en": [
       "He excelled in the field of: Cinema and Entertainment.",
       "American Actor Black Panther",
       "His initials are C. B."
-    ]
+    ],
+    "useAutoDifficulty": false
   },
   {
     "id": "adam-west-k3os",
@@ -10254,19 +12008,19 @@
       "place_en": "Los Angeles, USA"
     },
     "blurb": "Actor estadounidense (1928-2017).",
+    "blurb_en": "American actor (1928-2017).",
+    "name_en": "Adam West",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor estadounidense (1928-2017). Batman",
       "Sus iniciales son A. W."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "Adam West",
-    "blurb_en": "American actor (1928-2017).",
     "hints_en": [
       "He excelled in the field of: Cinema and Entertainment.",
       "American actor (1928-2017). Batman",
       "His initials are A.W."
-    ]
+    ],
+    "useAutoDifficulty": false
   },
   {
     "id": "gene-hackman-lnm7",
@@ -10291,19 +12045,19 @@
       "place_en": "Santa Fe, United States"
     },
     "blurb": "Actor y escritor estadounidense.",
+    "blurb_en": "American actor and writer.",
+    "name_en": "Gene Hackman",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor y escritor estadounidense.",
       "Sus iniciales son G. H."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "Gene Hackman",
-    "blurb_en": "American actor and writer.",
     "hints_en": [
       "He excelled in the field of: Cinema and Entertainment.",
       "American actor and writer.",
       "His initials are G. H."
-    ]
+    ],
+    "useAutoDifficulty": false
   },
   {
     "id": "christopher-reeve-mx4g",
@@ -10328,19 +12082,19 @@
       "place_en": "Mount Kisco, United States"
     },
     "blurb": "Actor y productor estadounidense.",
+    "blurb_en": "American actor and producer.",
+    "name_en": "Christopher Reeve",
     "hints": [
       "Se destacó en el ámbito de: Cine y Espectáculo.",
       "Actor y productor estadounidense. Superman",
       "Sus iniciales son C. R."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "Christopher Reeve",
-    "blurb_en": "American actor and producer.",
     "hints_en": [
       "He excelled in the field of: Cinema and Entertainment.",
       "American actor and producer Superman",
       "His initials are C. R."
-    ]
+    ],
+    "useAutoDifficulty": false
   },
   {
     "id": "maria-antonieta-de-austria-bk89",
@@ -10365,19 +12119,19 @@
       "place_en": "Place de la Concorde, France"
     },
     "blurb": "Reina consorte de Francia (1774-1792).",
+    "blurb_en": "Queen consort of France (1774-1792).",
+    "name_en": "Marie Antoinette of Austria",
     "hints": [
       "Se destacó en el ámbito de: Política / Historia.",
       "Reina consorte de Francia (1774-1792).",
       "Sus iniciales son M. A. D. A."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "Marie Antoinette of Austria",
-    "blurb_en": "Queen consort of France (1774-1792).",
     "hints_en": [
       "He excelled in the field of: Politics / History.",
       "Queen consort of France (1774-1792).",
       "His initials are M. A. D. A."
-    ]
+    ],
+    "useAutoDifficulty": false
   },
   {
     "id": "konrad-adenauer-cx2k",
@@ -10402,19 +12156,19 @@
       "place_en": "Rhöndorf, Germany"
     },
     "blurb": "Político alemán y 1.º canciller de la República Federal de Alemania (1949–1963).",
+    "blurb_en": "German politician and 1st Chancellor of the Federal Republic of Germany (1949–1963).",
+    "name_en": "Konrad Adenauer",
     "hints": [
       "Se destacó en el ámbito de: Política / Historia.",
       "Político alemán y 1.º canciller de la República Federal de Alemania (1949–1963).",
       "Sus iniciales son K. A."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "Konrad Adenauer",
-    "blurb_en": "German politician and 1st Chancellor of the Federal Republic of Germany (1949–1963).",
     "hints_en": [
       "He excelled in the field of: Politics / History.",
       "German politician and 1st Chancellor of the Federal Republic of Germany (1949–1963).",
       "His initials are K. A."
-    ]
+    ],
+    "useAutoDifficulty": false
   },
   {
     "id": "grigori-rasputin-fetw",
@@ -10439,19 +12193,19 @@
       "place_en": "St.Petersburg, Russia"
     },
     "blurb": "Místico ruso.",
+    "blurb_en": "Russian mystic.",
+    "name_en": "Rasputin",
     "hints": [
       "Se destacó en el ámbito de: Política, filosofía y Religión.",
       "Místico ruso.",
       "Sus iniciales son G. R."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "Rasputin",
-    "blurb_en": "Russian mystic.",
     "hints_en": [
       "He excelled in the field of: Politics, Philosophy and Religion.",
       "Russian mystic.",
       "His initials are G. R."
-    ]
+    ],
+    "useAutoDifficulty": false
   },
   {
     "id": "buddy-holly-hcy3",
@@ -10476,19 +12230,19 @@
       "place_en": "Clear Lake, United States"
     },
     "blurb": "Compositor, cantante y músico estadounidense.",
+    "blurb_en": "American songwriter, singer, and musician.",
+    "name_en": "Buddy Holly",
     "hints": [
       "Se destacó en el ámbito de: Música.",
       "Compositor, cantante y músico estadounidense.",
       "Sus iniciales son B. H."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "Buddy Holly",
-    "blurb_en": "American songwriter, singer, and musician.",
     "hints_en": [
       "He excelled in the field of: Music.",
       "American songwriter, singer, and musician.",
       "His initials are B.H."
-    ]
+    ],
+    "useAutoDifficulty": false
   },
   {
     "id": "porfirio-diaz-85vt",
@@ -10513,19 +12267,19 @@
       "place_en": "Paris, France"
     },
     "blurb": "Político y militar mexicano; 33.º presidente y dictador de México (1876-1911).",
+    "blurb_en": "Mexican politician and military; 33rd president and dictator of Mexico (1876-1911).",
+    "name_en": "Porfirio",
     "hints": [
       "Se destacó en el ámbito de: Política / Historia.",
       "Político y militar mexicano; 33.º presidente y dictador de México (1876-1911).",
       "Sus iniciales son P. D."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "Porfirio",
-    "blurb_en": "Mexican politician and military; 33rd president and dictator of Mexico (1876-1911).",
     "hints_en": [
       "He excelled in the field of: Politics / History.",
       "Mexican politician and military; 33rd president and dictator of Mexico (1876-1911).",
       "His initials are P. D."
-    ]
+    ],
+    "useAutoDifficulty": false
   },
   {
     "id": "manuel-belgrano-4i5g",
@@ -10550,18 +12304,18 @@
       "place_en": "Buenos Aires, United Provinces of the Río de la Plata (present-day Argentina)"
     },
     "blurb": "Abogado, militar y politico argentino.",
+    "blurb_en": "Argentine lawyer, military and politician.",
+    "name_en": "Manuel Belgrano",
     "hints": [
       "Se destacó en el ámbito de: Política.",
       "Abogado, militar y politico argentino. Creador de la bandera argentina",
       "Sus iniciales son M. B."
     ],
-    "useAutoDifficulty": false,
-    "name_en": "Manuel Belgrano",
-    "blurb_en": "Argentine lawyer, military and politician.",
     "hints_en": [
       "He excelled in the field of: Politics.",
       "Argentine lawyer, military and politician. Creator of the Argentine flag",
       "His initials are M. B."
-    ]
+    ],
+    "useAutoDifficulty": false
   }
 ]
