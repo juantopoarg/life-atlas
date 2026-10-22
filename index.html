@@ -13972,6 +13972,7 @@ function applyLanguage(lang) {
 }
 
 async function toggleLanguage() {
+  track("ui/lang-" + (state.lang === "en" ? "es" : "en"), "Cambio de idioma");
   const next = state.lang === "en" ? "es" : "en";
   applyLanguage(next);
   await LocalStore.set(STORAGE_KEYS.lang, next);
@@ -15041,6 +15042,7 @@ function renderHUD() {
 }
 
 function newRound() {
+  track("game/round-start", "Ronda iniciada");
   if (state.lives <= 0) return endGame();
 
   const figure = pickNextFigure();
@@ -15176,6 +15178,7 @@ async function submitGuess() {
   if (state.locked) return;
   const guess = el.input.value;
   const isCorrect = checkAnswer(guess, state.current);
+  track(isCorrect ? "game/correct" : "game/wrong", isCorrect ? "Acierto" : "Error");
   const figure = state.current;
   let lifeEvent = null; // 'extra' | 'capped' | null
   state.totalAnswerTimeMs += Date.now() - state.roundStart;
@@ -15266,6 +15269,7 @@ async function submitGuess() {
 }
 
 function skipRound() {
+  track("game/skip", "Ronda salteada");
   if (state.locked) return;
   state.streak = 0;
   state.lives = roundLives(state.lives - 1);
@@ -15355,6 +15359,7 @@ function updateHintAvailability() {
 }
 
 function useHint() {
+  track("game/hint", "Pista usada");
   if (state.locked || !canRequestHint()) return;
   state.hintsUsed += 1;
   state.usedAnyHintThisSession = true;
@@ -15366,6 +15371,7 @@ function useHint() {
 }
 
 async function endGame() {
+  track("game/over", "Fin de partida");
   el.dossier.classList.add("hidden");
   el.feedback.classList.add("hidden");
   el.finalScore.textContent = state.score;
@@ -16555,7 +16561,49 @@ function renderXpBar() {
   }
 }
 
+// ---------- Analytics (GoatCounter: sin cookies, sin datos personales) ----------
+// Para activarlo: creá una cuenta gratis en goatcounter.com, elegí un código
+// (ej. "life-atlas") y pegalo acá. Con el valor vacío no se carga nada.
+const GOATCOUNTER_CODE = "";
+
+function track(event, title) {
+  try {
+    if (!GOATCOUNTER_CODE || !window.goatcounter || !window.goatcounter.count) return;
+    window.goatcounter.count({ path: event, title: title || event, event: true });
+  } catch (e) { /* analytics nunca debe romper el juego */ }
+}
+
+function loadAnalytics() {
+  if (!GOATCOUNTER_CODE || location.protocol === "file:") return;
+  try {
+    window.goatcounter = { no_onload: false };
+    const sc = document.createElement("script");
+    sc.async = true;
+    sc.dataset.goatcounter = `https://${GOATCOUNTER_CODE}.goatcounter.com/count`;
+    sc.src = "https://gc.zgo.at/count.js";
+    document.head.appendChild(sc);
+  } catch (e) { /* sin analytics */ }
+}
+
+// Tiempo jugado: segundos con la pestaña visible, reportado al cerrarla u ocultarla.
+let visibleSince = document.visibilityState === "visible" ? Date.now() : null;
+let reportedSeconds = 0;
+function reportPlayTime() {
+  if (visibleSince) { reportedSeconds += Math.round((Date.now() - visibleSince) / 1000); visibleSince = null; }
+  if (reportedSeconds >= 5) {
+    const bucket = reportedSeconds < 60 ? "<1min" : reportedSeconds < 300 ? "1-5min" : reportedSeconds < 900 ? "5-15min" : reportedSeconds < 1800 ? "15-30min" : "30min+";
+    track("playtime/" + bucket, "Tiempo jugado " + bucket);
+    reportedSeconds = 0;
+  }
+}
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "hidden") reportPlayTime();
+  else visibleSince = Date.now();
+});
+window.addEventListener("pagehide", reportPlayTime);
+
 async function init() {
+  loadAnalytics();
   initMap();
   populateFilterCategories();
   populateFilterRegions();
