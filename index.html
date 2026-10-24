@@ -90,7 +90,7 @@ h1,h2,h3,p{ margin: 0; }
 }
 
 /* Botones de ícono */
-.toolbar{ display: flex; justify-content: space-between; gap: 4px; }
+.toolbar{ display: flex; justify-content: space-between; gap: 4px; position: relative; z-index: 960; }
 .icon-btn{
   width: 44px; height: 44px; flex: none;
   border-radius: 14px; border: none; border-bottom: 4px solid rgba(0,0,0,.2);
@@ -257,9 +257,9 @@ button:disabled{ opacity: .5; cursor: default; }
 /* ---------- Paneles laterales -> hojas ---------- */
 .side-panel, .admin-modal{ color: var(--ink); }
 .side-panel{
-  position: fixed; top: 0; right: 0; bottom: 0; width: min(420px, 100vw); z-index: 900;
-  background: var(--card); padding: calc(16px + var(--safe-t)) 16px calc(16px + var(--safe-b));
-  overflow-y: auto; border-radius: var(--r-card) 0 0 var(--r-card); box-shadow: -8px 0 0 rgba(0,0,0,.18);
+  position: fixed; top: 120px; right: 0; bottom: 0; width: min(420px, 100vw); z-index: 900;
+  background: var(--card); padding: 16px 16px calc(16px + var(--safe-b));
+  overflow-y: auto; border-radius: var(--r-card) var(--r-card) 0 0; box-shadow: 0 -6px 0 rgba(0,0,0,.18);
 }
 .side-panel-header{ display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 14px; }
 .side-panel-header h2{ font: 800 24px var(--font-display); text-transform: uppercase; }
@@ -389,7 +389,7 @@ button:disabled{ opacity: .5; cursor: default; }
   .admin-form-row{ flex-direction: column; }
 }
 @media (max-width: 640px){
-  .side-panel{ width: 100vw; border-radius: 0; }
+  .side-panel{ width: 100vw; }
   .admin-form-row{ flex-direction: column; }
 }
 @media (prefers-reduced-motion: reduce){
@@ -448,7 +448,6 @@ button:disabled{ opacity: .5; cursor: default; }
 
 <main class="stage">
   <div id="map" role="img" aria-label="Mapa con las ubicaciones de nacimiento y fallecimiento"></div>
-  <button class="icon-btn admin-corner-btn" id="admin-btn" type="button" title="Administración">&#128274;</button>
 </main>
 
 <section class="dock">
@@ -569,6 +568,11 @@ button:disabled{ opacity: .5; cursor: default; }
       <input type="checkbox" id="sound-toggle" checked />
       <span class="switch"><span class="switch-knob"></span></span>
     </label>
+  </div>
+
+  <div class="filter-group">
+    <p class="filter-label">Administración</p>
+    <button class="primary-btn" id="admin-btn" type="button">🔒 Administrar base de personajes</button>
   </div>
 
   <div class="filter-group">
@@ -14430,12 +14434,13 @@ function allAvailableFiguresSeen() {
   return figuresMatchingFiltersExceptDifficulty().length > 0 && excludeSeen(figuresMatchingFiltersExceptDifficulty()).length === 0;
 }
 
-function pinIcon(color, label) {
+function pinIcon(color, label, dx = 0, dy = 0) {
   return L.divIcon({
     className: "atlas-pin",
     html: `<div class="pin pin--${color}"><span>${label}</span></div>`,
     iconSize: [46, 46],
-    iconAnchor: [23, 23],
+    // dx/dy corren el pin en pantalla (px) sin mover la coordenada real.
+    iconAnchor: [23 - dx, 23 - dy],
   });
 }
 
@@ -14494,7 +14499,11 @@ function renderMarkers(figure) {
   clearMarkers();
   const real_b = [figure.birth.lat, figure.birth.lng];
   const real_d = [figure.death.lat, figure.death.lng];
-  const { b, d } = offsetIfSamePlace(figure.birth, figure.death);
+  const b = real_b, d = real_d;
+  const samePlace =
+    Math.abs(figure.birth.lat - figure.death.lat) < SAME_PLACE_THRESHOLD_DEG &&
+    Math.abs(figure.birth.lng - figure.death.lng) < SAME_PLACE_THRESHOLD_DEG;
+  const SHIFT = samePlace ? 26 : 0; // px: nacimiento a la izquierda/arriba, muerte a la derecha/abajo
 
   connectorLine = L.polyline([real_b, real_d], {
     color: "#C9A24B",
@@ -14503,8 +14512,8 @@ function renderMarkers(figure) {
     opacity: 0.55,
   }).addTo(map);
 
-  birthMarker = L.marker(b, { icon: pinIcon("green", formatYear(figure.birthYear)) }).addTo(map);
-  deathMarker = L.marker(d, { icon: pinIcon("red", formatYear(figure.deathYear)) }).addTo(map);
+  birthMarker = L.marker(b, { icon: pinIcon("green", formatYear(figure.birthYear), -SHIFT, -SHIFT * 0.35) }).addTo(map);
+  deathMarker = L.marker(d, { icon: pinIcon("red", formatYear(figure.deathYear), SHIFT, SHIFT * 0.35) }).addTo(map);
 
   // En Modo Experto no se revela nada al hacer clic: solo quedan visibles
   // los años de los propios pines.
@@ -15113,7 +15122,28 @@ function setAllCategoryChips(checked) {
   el.filtersCategories.querySelectorAll('input[type="checkbox"]').forEach((b) => (b.checked = checked));
 }
 
+// Un solo panel abierto a la vez: abrir uno cierra los demás (el último click
+// gana). Los paneles arrancan debajo de la barra de botones para que ésta
+// siga siendo tocable aun con un panel abierto.
+function closeAllPanels(except) {
+  [el.filtersPanel, el.settingsPanel, el.statsPanel, el.achievementsPanel, el.adminModal].forEach((p) => {
+    if (p && p !== except) p.classList.add("hidden");
+  });
+}
+function placePanel(panel) {
+  const tb = document.querySelector(".toolbar");
+  const top = tb ? Math.round(tb.getBoundingClientRect().bottom + 8) : 0;
+  panel.style.top = top + "px";
+  panel.scrollTop = 0;
+}
+function togglePanel(panel, openFn) {
+  if (panel && !panel.classList.contains("hidden")) { panel.classList.add("hidden"); return; }
+  openFn();
+}
+
 function openFilters() {
+  closeAllPanels(el.filtersPanel);
+  placePanel(el.filtersPanel);
   el.filtersPanel.classList.remove("hidden");
   el.filtersWarning.classList.add("hidden");
 }
@@ -15125,6 +15155,8 @@ function closeFilters() {
 // ---------- Ajustes (Modo Experto) ----------
 
 function openSettings() {
+  closeAllPanels(el.settingsPanel);
+  placePanel(el.settingsPanel);
   el.settingsPanel.classList.remove("hidden");
 }
 
@@ -15183,6 +15215,7 @@ function slugify(str) {
 }
 
 function openAdmin() {
+  closeAllPanels(el.adminModal);
   el.adminModal.classList.remove("hidden");
   el.adminGateAuth.classList.toggle("hidden", !cloudEnabled() || adminUnlocked);
   el.adminGatePasscode.classList.toggle("hidden", cloudEnabled() || adminUnlocked);
@@ -16152,6 +16185,8 @@ function renderSessionStats(container) {
 }
 
 async function openStats() {
+  closeAllPanels(el.statsPanel);
+  placePanel(el.statsPanel);
   el.statsPanel.classList.remove("hidden");
   renderSessionStats(el.statsSessionContent);
 
@@ -16186,6 +16221,8 @@ async function refreshGlobalBestScore() {
 // ---------- Panel de Logros ----------
 
 function openAchievements() {
+  closeAllPanels(el.achievementsPanel);
+  placePanel(el.achievementsPanel);
   renderAchievementsList();
   el.achievementsPanel.classList.remove("hidden");
 }
@@ -16314,13 +16351,13 @@ async function init() {
   el.nextBtn.addEventListener("click", newRound);
   el.restartBtn.addEventListener("click", restartGame);
 
-  el.filtersBtn.addEventListener("click", openFilters);
+  el.filtersBtn.addEventListener("click", () => togglePanel(el.filtersPanel, openFilters));
   el.filtersClose.addEventListener("click", closeFilters);
   el.filtersApply.addEventListener("click", applyFilters);
   el.filtersSelectAll.addEventListener("click", () => setAllCategoryChips(true));
   el.filtersSelectNone.addEventListener("click", () => setAllCategoryChips(false));
 
-  el.statsBtn.addEventListener("click", openStats);
+  el.statsBtn.addEventListener("click", () => togglePanel(el.statsPanel, openStats));
   el.statsClose.addEventListener("click", closeStats);
 
   el.adminBtn.addEventListener("click", openAdmin);
@@ -16345,7 +16382,7 @@ async function init() {
   el.themeToggle.addEventListener("click", toggleTheme);
   el.langToggle.addEventListener("click", toggleLanguage);
 
-  el.settingsBtn.addEventListener("click", openSettings);
+  el.settingsBtn.addEventListener("click", () => togglePanel(el.settingsPanel, openSettings));
   el.settingsClose.addEventListener("click", closeSettings);
   el.expertToggle.addEventListener("change", (e) => setExpertMode(e.target.checked));
   el.soundToggle.addEventListener("change", (e) => { toggleSound(e.target.checked); refreshSoundBtn(); });
@@ -16355,7 +16392,7 @@ async function init() {
     refreshSoundBtn();
   });
 
-  el.achievementsBtn.addEventListener("click", openAchievements);
+  el.achievementsBtn.addEventListener("click", () => togglePanel(el.achievementsPanel, openAchievements));
   el.achievementsClose.addEventListener("click", closeAchievements);
 
   wireAdminListControls();
